@@ -1,0 +1,314 @@
+[
+ {
+  "q": "Afrika qit‘asining shimoliy qismi qaysi sivilizatsiyaning bir bo‘lagiga aylandi?",
+  "a": "Arab-islom sivilizatsiyasi",
+  "w": [
+   "Lotin-xristian sivilizatsiyasi",
+   "Hind-buddaviy sivilizatsiyasi",
+   "Sharqiy slavyan sivilizatsiyasi"
+  ],
+  "e": "Afrikaning shimoliy qismi arab-islom sivilizatsiyasining bir bo‘lagiga aylangan.",
+  "p": 74,
+  "src": "qismi arab-islom sivilizatsiya"
+ },
+ {
+  "q": "1922-yil fevralda Buyuk Britaniya Misrga nisbatan qanday qaror qabul qildi?",
+  "a": "O‘z protektoratini bekor qilib, to‘liq mustaqillikni tan oldi",
+  "w": [
+   "Misrni Buyuk Britaniyaning dominioniga aylantirdi",
+   "Misrda yangi protektorat o‘rnatib, uni mandatga topshirdi",
+   "Misrni Suvaysh kanali bilan birga Fransiyaga topshirdi"
+  ],
+  "e": "Buyuk Britaniya protektoratini bekor qilib, Misrning to‘liq mustaqilligini tan olgan.",
+  "p": 74,
+  "src": "Buyuk Britaniya oʻz protektoratini bekor qilib, Misrning"
+ },
+ {
+  "q": "1923-yili qabul qilingan konstitutsiyaga ko‘ra Misr nima deb e’lon qilindi?",
+  "a": "Monarxiya",
+  "w": [
+   "Respublika",
+   "Protektorat",
+   "Dominion"
+  ],
+  "e": "1923-yilgi konstitutsiyaga ko‘ra Misr monarxiya deb e’lon qilingan.",
+  "p": 74,
+  "src": "koʻra, Misr monarxiya deb eʼlon qilindi"
+ },
+ {
+  "q": "1941-yili Misr hududiga qaysi davlatlarning qo‘shinlari kiritildi?",
+  "a": "Germaniya va Italiya",
+  "w": [
+   "Fransiya va Ispaniya",
+   "Buyuk Britaniya va Portugaliya",
+   "Belgiya va Portugaliya"
+  ],
+  "e": "1941-yili Misr hududiga Germaniya va Italiya qo‘shinlari kiritilgan.",
+  "p": 74,
+  "src": "1941-yili Misr hududiga Germaniya va Italiya qoʻshinlari kiritildi"
+ },
+ {
+  "q": "Qaysi mamlakatlar Birinchi jahon urushidan keyin ham Fransiyaning mustamlakalari bo‘lib qoldi?",
+  "a": "Jazoir, Tunis va Marokash",
+  "w": [
+   "Misr, Liviya va Tunis",
+   "Jazoir, Liviya va Misr",
+   "Marokash, Liviya va Misr"
+  ],
+  "e": "Jazoir, Tunis va Marokash Fransiya mustamlakalari bo‘lib, bu holat urushdan keyin ham saqlangan.",
+  "p": 74,
+  "src": "Jazoir, Tunis va Marokash Fransiyaning mustamlakalari"
+ },
+ {
+  "q": "Jahon urushlari oralig‘ida Tunisda milliy-ozodlik harakatiga kim boshchilik qildi?",
+  "a": "Habib Burg‘iba",
+  "w": [
+   "Farhod Abbos",
+   "Abdul Karim",
+   "Nelson Mandela"
+  ],
+  "e": "Tunisda Habib Burg‘iba, Jazoirda Farhod Abbos, Marokashda Abdul Karim boshchiligida harakatlar avj olgan.",
+  "p": 74,
+  "src": "Farhod Abbos, Tunisda Habib Burgʻiba, Marokashda Abdul Karim boshchiligida"
+ },
+ {
+  "q": "Jahon urushlari oralig‘ida Jazoirda milliy-ozodlik harakatiga kim boshchilik qildi?",
+  "a": "Farhod Abbos",
+  "w": [
+   "Habib Burg‘iba",
+   "Abdul Karim",
+   "Ahmed Urabiy"
+  ],
+  "e": "Jazoirda Farhod Abbos boshchiligida milliy-ozodlik harakati avj olgan.",
+  "p": 74,
+  "src": "Farhod Abbos, Tunisda Habib Burgʻiba"
+ },
+ {
+  "q": "Shimoliy Afrikadagi milliy-ozodlik harakatlari g‘alaba qozonmagan bo‘lsa-da, qanday ahamiyatga ega bo‘ldi?",
+  "a": "Mintaqa xalqlarining milliy va siyosiy ongi o‘sishida katta rol o‘ynadi",
+  "w": [
+   "Mustamlakachilar tezda mustaqillik berishiga sabab bo‘ldi",
+   "Xalqlar milliy ongining susayishiga va tarqoqlikka olib keldi",
+   "Fransiya bilan yangi ittifoq tuzilishiga olib keldi"
+  ],
+  "e": "Harakatlar g‘alaba qozonmagan bo‘lsa-da, xalqlarning milliy va siyosiy ongini o‘stirgan.",
+  "p": 74,
+  "src": "xalqlari milliy va siyosiy ongining oʻsishida katta rol oʻynadi"
+ },
+ {
+  "q": "1940-yili Fransiya mag‘lubiyatga uchragandan so‘ng Jazoir va Tunis nimaga aylantirildi?",
+  "a": "Germaniya va Italiyaning xomashyo bazasiga",
+  "w": [
+   "Buyuk Britaniyaning harbiy bazasiga",
+   "Ispaniyaning protektoratiga",
+   "Mustaqil monarxiyalarga"
+  ],
+  "e": "Jazoir va Tunis Germaniya va Italiyaning xomashyo bazasiga aylantirilgan.",
+  "p": 74,
+  "src": "lubiyatga uchragandan soʻng Jazoir va Tunis Germaniya va Italiyaning xomashyo bazasiga aylantirildi"
+ },
+ {
+  "q": "Liviya qarshilik harakati qaysi yili bostirilib, rahbarlari qatl qilindi?",
+  "a": "1931-yili",
+  "w": [
+   "1911-yili",
+   "1922-yili",
+   "1940-yili"
+  ],
+  "e": "1931-yili Liviya qarshilik harakati bostirilib, rahbarlari qatl qilingan.",
+  "p": 74,
+  "src": "1931-yili qarshilik harakati bostirilib, uning rahbarlari qatl qilindi"
+ },
+ {
+  "q": "Liviya qaysi davlatning mustamlakasiga aylantirildi?",
+  "a": "Italiyaning",
+  "w": [
+   "Fransiyaning",
+   "Buyuk Britaniyaning",
+   "Ispaniyaning"
+  ],
+  "e": "Liviya Italiyaning mustamlakasiga aylantirilgan.",
+  "p": 74,
+  "src": "Liviya Italiyaning mustamlakasiga aylantirildi"
+ },
+ {
+  "q": "Afrikada xristian dini qaysi faoliyat orqali tarqaldi?",
+  "a": "Missionerlik faoliyati",
+  "w": [
+   "Savdo karvonlari faoliyati",
+   "Diplomatik elchilik faoliyati",
+   "Harbiy yurishlar faoliyati"
+  ],
+  "e": "Missionerlik faoliyati orqali Afrikada xristian dini tarqalgan.",
+  "p": 75,
+  "src": "Missionerlik faoliyati orqali xristian dini tarqaldi"
+ },
+ {
+  "q": "Birinchi jahon urushidan keyin Afrika iqtisodiyotida qishloq xo‘jaligi qanday usulda olib borilardi?",
+  "a": "Ibtidoiy usulda",
+  "w": [
+   "Zamonaviy mexanizatsiyalashgan usulda",
+   "Sanoat asosida",
+   "Yarim sanoat usulida"
+  ],
+  "e": "Aholining katta qismi an’anaviy usulda kun kechirgan, qishloq xo‘jaligi ibtidoiy usulda olib borilgan.",
+  "p": 75,
+  "src": "qishloq xoʻjaligi ibtidoiy usulda olib borilardi"
+ },
+ {
+  "q": "Afrikaning ijtimoiy sohasida obro‘si hali ham juda yuqori bo‘lib qolgan qatlam qaysi?",
+  "a": "Mahalliy tabib va kohinlar",
+  "w": [
+   "Yevropalik savdogarlar",
+   "Maktab o‘qituvchilari",
+   "Fabrika egalari"
+  ],
+  "e": "Eski tuzum saqlanib qolgan, mahalliy tabib va kohinlarning obro‘si hali ham juda yuqori bo‘lgan.",
+  "p": 75,
+  "src": "mahalliy tabib va kohinlarning obroʻsi hali ham juda yuqori"
+ },
+ {
+  "q": "Afrikada yangi siyosiy institutlar paydo bo‘lgan joylarda ham asosiy rolni kimlar o‘ynadi?",
+  "a": "Qabila boshliqlari va kohinlar",
+  "w": [
+   "Yevropalik missionerlar",
+   "Fabrikachilar va bankirlar",
+   "Saylangan parlament deputatlari"
+  ],
+  "e": "Yangi institutlar eski siyosiy tizim asosiga qurilib, qabila boshliqlari va kohinlar asosiy rol o‘ynagan.",
+  "p": 75,
+  "src": "qabila boshliqlari, kohinlar va shu kabilar asosiy rol oʻynadi"
+ },
+ {
+  "q": "Afrikada madaniy sohadagi muvaffaqiyatlar ko‘pincha qanday edi?",
+  "a": "Faqat tashqi ko‘rinish edi",
+  "w": [
+   "Chuqur va barqaror edi",
+   "Mahalliy madaniyatni to‘liq almashtirdi",
+   "Aholining butun qatlamini qamrab oldi"
+  ],
+  "e": "Xristianlik rasmiyat uchun qabul qilingan, mahalliy aholi ongida an’anaviy madaniyat hukmron bo‘lib qolgan.",
+  "p": 75,
+  "src": "Madaniy sohadagi muvaffaqiyatlar koʻpincha faqat tashqi koʻrinish edi xolos"
+ },
+ {
+  "q": "Birinchi Panafrika konferensiyasi qaysi shaharda bo‘lib o‘tgan?",
+  "a": "Londonda",
+  "w": [
+   "Parijda",
+   "Qohirada",
+   "Nyu-Yorkda"
+  ],
+  "e": "Birinchi Panafrika konferensiyasi 1900-yili Londonda o‘tgan.",
+  "p": 75,
+  "src": "Birinchi Panafrika konferensiyasi 1900-yili Londonda"
+ },
+ {
+  "q": "Panafrika harakati qaysi yili I Ta’sis kongressida rasmiylashtirildi?",
+  "a": "1919-yili",
+  "w": [
+   "1900-yili",
+   "1920-yili",
+   "1926-yili"
+  ],
+  "e": "Birinchi konferensiya 1900-yilda o‘tgan bo‘lsa-da, harakat 1919-yili I Ta’sis kongressida rasmiylashtirilgan.",
+  "p": 75,
+  "src": "ammo harakat 1919-yili I Taʼsis kongressida rasmiylashtirildi"
+ },
+ {
+  "q": "1920-yili Afrikada tashkil topgan birinchi siyosiy partiya qaysi?",
+  "a": "Afrika milliy kongressi",
+  "w": [
+   "Panafrika kongressi",
+   "Millatlar Ligasi",
+   "Janubiy Afrika Ittifoqi"
+  ],
+  "e": "1920-yili Afrikada birinchi siyosiy partiya – Afrika milliy kongressi (AMK) tashkil topgan.",
+  "p": 75,
+  "src": "Afrikada birinchi siyosiy partiya – Afrika milliy kongressi (AMK)"
+ },
+ {
+  "q": "XX asr boshlarigacha yevropaliklar nazarida Afrika tarixi nima bilan bog‘liq edi?",
+  "a": "Qul savdosi va iqtisodiy talonchilik bilan",
+  "w": [
+   "Sanoat rivoji va fan yutuqlari bilan",
+   "Davlatchilik va qonunchilik bilan",
+   "Dengiz sayohatlari va geografik kashfiyotlar bilan"
+  ],
+  "e": "Yevropaliklar nazarida Afrika tarixi faqat qul savdosi va iqtisodiy talonchilik bilan bog‘liq bo‘lgan.",
+  "p": 75,
+  "src": "yevropaliklar nazarida faqat qul savdosi va iqtisodiy talonchilik bilan bogʻliq edi"
+ },
+ {
+  "q": "1926-yili Millatlar Ligasi qabul qilgan Qullik haqida konvensiyada nima qilindi?",
+  "a": "Qullik va qul savdosiga ta’rif berilib, ular qoralandi",
+  "w": [
+   "Qullik va qul savdosi rasman ruxsat etilib, tartibga solindi",
+   "Afrika mustamlakalariga to‘liq mustaqillik berildi",
+   "Afrika hududlari metropoliyalar o‘rtasida qayta bo‘lib berildi"
+  ],
+  "e": "Konvensiyada qullik va qul savdosiga ta’rif berilib, ular qoralangan.",
+  "p": 75,
+  "src": "Qullik haqida konvensiyada qullik va qul savdosiga taʼrif berilib, ular qoralandi"
+ },
+ {
+  "q": "Birinchi jahon urushidan so‘ng Afrika umumiy aholisining yarmidan ko‘pi qaysi davlat mustamlakalarida istiqomat qilardi?",
+  "a": "Buyuk Britaniya",
+  "w": [
+   "Fransiya",
+   "Belgiya",
+   "Portugaliya"
+  ],
+  "e": "Janubiy va markaziy hududlar Buyuk Britaniyaga qarashli bo‘lib, uning mustamlakalarida aholining yarmidan ko‘pi yashagan.",
+  "p": 75,
+  "src": "Afrika umumiy aholisining yarmidan koʻpi istiqomat qilardi"
+ },
+ {
+  "q": "Afrika qit‘asining eng katta hududini qaysi davlat egallagan edi?",
+  "a": "Fransiya",
+  "w": [
+   "Belgiya",
+   "Portugaliya",
+   "Italiya"
+  ],
+  "e": "Afrikaning eng katta hududini Fransiya egallagan, qolganini Belgiya, Portugaliya, Ispaniya va Italiya bo‘lishib olgan.",
+  "p": 75,
+  "src": "Afrika qitʼasining eng katta hududini Fransiya egallagan"
+ },
+ {
+  "q": "1910-yili Janubiy Afrika Ittifoqi (JAI) qaysi davlatning o‘zini o‘zi boshqaruvchi dominioni sifatida tuzildi?",
+  "a": "Buyuk Britaniyaning",
+  "w": [
+   "Fransiyaning",
+   "Belgiyaning",
+   "Portugaliyaning"
+  ],
+  "e": "JAI Buyuk Britaniyaning o‘zini o‘zi boshqaruvchi dominioni sifatida tuzilgan.",
+  "p": 76,
+  "src": "Buyuk Britaniyaning oʻzini oʻzi boshqaruvchi dominioni sifatida"
+ },
+ {
+  "q": "Janubiy Afrika Ittifoqining konstitutsiyasi bo‘lgan akt necha yil amal qildi?",
+  "a": "Yana 50 yil",
+  "w": [
+   "Yana 10 yil",
+   "Yana 25 yil",
+   "Yana 100 yil"
+  ],
+  "e": "U yana 50 yil amal qilib, dunyodagi eng irqchi konstitutsiya sifatida tarixda qolgan.",
+  "p": 76,
+  "src": "U yana 50 yil amal qilib"
+ },
+ {
+  "q": "Ikkinchi jahon urushi yillarida afrikaliklardan tashkil qilingan milliy harbiy qismlar keyinchalik qanday rol o‘ynadi?",
+  "a": "Mustaqillik uchun kurashda muhim rol o‘ynadi",
+  "w": [
+   "Mustamlakachilik tuzumini mustahkamladi",
+   "Qul savdosini qayta tikladi",
+   "Afrikani yangi metropoliyalarga bo‘lib berdi"
+  ],
+  "e": "Milliy harbiy qismlar keyinchalik mustaqillik uchun kurashda muhim rol o‘ynagan.",
+  "p": 76,
+  "src": "harbiy qismlar keyinchalik mustaqillik uchun kurashda muhim rol oʻynadi"
+ }
+]

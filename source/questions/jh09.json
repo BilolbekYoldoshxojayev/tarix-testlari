@@ -1,0 +1,254 @@
+[
+ {
+  "q": "Germaniya, Avstriya-Vengriya va Italiya harbiy-siyosiy blokini tashkil qilgan yil qaysi?",
+  "a": "1882-yil",
+  "w": [
+   "1904-yil",
+   "1907-yil",
+   "1914-yil"
+  ],
+  "e": "Uchlar ittifoqi 1882-yili tashkil etildi.",
+  "p": 51,
+  "src": "1882-yili Germaniya, Avstriya-Vengriya va Italiya Uchlar ittifoqi"
+ },
+ {
+  "q": "Antanta harbiy-siyosiy blokini qaysi davlatlar tashkil qilgan?",
+  "a": "Buyuk Britaniya, Fransiya va Rossiya",
+  "w": [
+   "Germaniya, Avstriya-Vengriya va Italiya",
+   "Buyuk Britaniya, AQSH va Yaponiya",
+   "Fransiya, Italiya va Turkiya"
+  ],
+  "e": "1904–1907-yillari Germaniya blokiga qarshi Buyuk Britaniya, Fransiya va Rossiya Antantani tuzdi.",
+  "p": 51,
+  "src": "Germaniya blokiga qarshi Buyuk Britaniya, Fransiya va Rossiya"
+ },
+ {
+  "q": "XIX asrning oxirgi 30 yilida rivojlanish sur’ati keskin tezlashib, ilg‘or industrial davlatlar qatoriga kirgan davlatlar qaysilar?",
+  "a": "AQSH va Germaniya",
+  "w": [
+   "Rossiya va Italiya",
+   "Fransiya va Yaponiya",
+   "Avstriya-Vengriya va Turkiya"
+  ],
+  "e": "AQSH va Germaniya ilg‘or industrial davlatlar qatoriga kirib oldi.",
+  "p": 51,
+  "src": "AQSH va Germaniya ilgʻor industrial davlatlar qatoriga kirib oldilar"
+ },
+ {
+  "q": "Avstriya-Vengriya taxti vorisi Frans Ferdinand va uning xotini qaysi shaharda o‘ldirilgan?",
+  "a": "Sarayevo",
+  "w": [
+   "Belgrad",
+   "Vena",
+   "Budapesht"
+  ],
+  "e": "Ular Bosniyaning Sarayevo shahrida o‘ldirildi.",
+  "p": 52,
+  "src": "Avstriya-Vengriya taxtining vorisi – shahzoda Frans Ferdinand va uning xotini Bosniyaning Sarayevo shahrida"
+ },
+ {
+  "q": "Gavrilo Prinsip qaysi tashkilotning a’zosi edi?",
+  "a": "“Mlada Bosna” (“Yosh Bosniya”)",
+  "w": [
+   "“Yosh turklar”",
+   "“Yosh Italiya”",
+   "“Slavyan birdamligi”"
+  ],
+  "e": "Prinsip “Mlada Bosna” tashkiloti a’zosi bo‘lgan.",
+  "p": 52,
+  "src": "tashkilotining aʼzosi Gavrilo Prinsip tomonidan otib oʻldirildi"
+ },
+ {
+  "q": "Avstriya-Vengriya Serbiyaga ultimatumni qaysi sanada e’lon qildi?",
+  "a": "23-iyul",
+  "w": [
+   "28-iyun",
+   "1-avgust",
+   "4-avgust"
+  ],
+  "e": "23-iyulda ultimatum e’lon qilindi, 28-iyulda esa urush e’lon qilindi.",
+  "p": 52,
+  "src": "23-iyulda Avstriya-Vengriya Serbiyaga ultimatum eʼlon qildi"
+ },
+ {
+  "q": "Nima uchun Serbiya Avstriya-Vengriya ultimatumini to‘liq qabul qilishi qiyin edi?",
+  "a": "Uni qabul qilish mustaqillikni yo‘qotish bilan barobar edi",
+  "w": [
+   "Ultimatum Rossiya tomonidan yozilgan edi",
+   "Unda Serbiyadan katta tovon talab qilingan edi",
+   "Ultimatum faqat armiyani qisqartirishni talab qilgan edi"
+  ],
+  "e": "Ultimatumni qabul qilish Serbiya uchun o‘z mustaqilligini yo‘qotish bilan barobar edi.",
+  "p": 52,
+  "src": "uni qabul qilish Serbiya uchun oʻz mustaqilligini yoʻqotish bilan barobar edi"
+ },
+ {
+  "q": "Avstriya-Vengriya Serbiyaga qaysi sanada urush e’lon qildi?",
+  "a": "28-iyul",
+  "w": [
+   "23-iyul",
+   "1-avgust",
+   "4-avgust"
+  ],
+  "e": "Serbiya deyarli barcha talablarga rozi bo‘lsa-da, 28-iyulda urush e’lon qilindi.",
+  "p": 52,
+  "src": "28-iyul kuni Avstriya-Vengriya Serbiyaga urush eʼlon qildi"
+ },
+ {
+  "q": "Rossiya nima sababdan umumiy safarbarlik e’lon qildi?",
+  "a": "Serbiyani halokatga tashlab qo‘yish slavyan va pravoslav birdamligiga xilof edi",
+  "w": [
+   "Germaniya Rossiyaga urush e’lon qilib, uning hududiga bostirib kirgan edi",
+   "Rossiya Sarayevoni egallab, Bosniyani o‘ziga qo‘shib olmoqchi edi",
+   "Antanta qo‘shinlari Rossiya hududiga kirib, chegarani buzgan edi"
+  ],
+  "e": "Serbiyani tashlab qo‘yish Rossiya manfaatlariga zarar yetkazar va slavyan, pravoslav birdamligiga xilof edi.",
+  "p": 52,
+  "src": "slavyan va pravoslav birdamligi anʼanalariga xilof"
+ },
+ {
+  "q": "Germaniya Fransiyaga qaysi sanada urush e’lon qildi?",
+  "a": "3-avgust",
+  "w": [
+   "1-avgust",
+   "4-avgust",
+   "28-iyul"
+  ],
+  "e": "Germaniya 1-avgustda Rossiyaga, 3-avgustda Fransiyaga urush e’lon qildi.",
+  "p": 52,
+  "src": "3-avgust kuni esa Fransiyaga urush eʼlon qildi"
+ },
+ {
+  "q": "Angliya Germaniyaga qaysi sanada urush e’lon qildi?",
+  "a": "4-avgust",
+  "w": [
+   "28-iyul",
+   "1-avgust",
+   "3-avgust"
+  ],
+  "e": "Angliya Germaniyaga 4-avgust kuni urush e’lon qildi.",
+  "p": 52,
+  "src": "4-avgust kuni Angliya Germaniyaga urush eʼlon qildi"
+ },
+ {
+  "q": "Yaponiya Birinchi jahon urushidan qanday maqsadlarda foydalanmoqchi bo‘lgan?",
+  "a": "Xitoyni bo‘ysundirish va Tinch okeandagi Germaniya mustamlakalarini egallash",
+  "w": [
+   "Hindistonni Buyuk Britaniya hukmronligidan ozod qilish va mustaqil davlat tuzish",
+   "Rossiya bilan Uchlar ittifoqini tuzib, Yevropada hukmronlikka erishish",
+   "Avstriya-Vengriya hududlarini egallab, Bolqonda o‘z ta’sirini o‘rnatish"
+  ],
+  "e": "Yaponiya Xitoyni bo‘ysundirish, Tinch okeandagi Germaniya mustamlakalarini egallash va Uzoq Sharqda hukmronlikni maqsad qilgan.",
+  "p": 52,
+  "src": "Xitoyni boʻysundirishda, Tinch okeandagi Germaniya mustamlakalarini egallab olishda"
+ },
+ {
+  "q": "1914-yil avgustda Yaponiya qaysi davlatga urush e’lon qildi?",
+  "a": "Germaniyaga",
+  "w": [
+   "Avstriya-Vengriyaga",
+   "Rossiyaga",
+   "Turkiyaga"
+  ],
+  "e": "1914-yil avgustda Yaponiya Germaniyaga urush e’lon qildi.",
+  "p": 52,
+  "src": "1914-yil avgustda Yaponiya Germaniyaga urush eʼlon qildi"
+ },
+ {
+  "q": "Quyidagi davlatlardan qaysi biri Germaniya va uning ittifoqchilari tomonida urushga qo‘shilgan?",
+  "a": "Turkiya",
+  "w": [
+   "Yaponiya",
+   "Serbiya",
+   "Belgiya"
+  ],
+  "e": "Germaniya tomonida Turkiya ham urushga qo‘shildi.",
+  "p": 52,
+  "src": "Germaniya va uning ittifoqchilari tomonda Turkiya ham urushga qoʻshildi"
+ },
+ {
+  "q": "Qaysi jang 1916-yilda maqsadsiz qirg‘inning ramziga aylanib qoldi?",
+  "a": "Verdendagi jang",
+  "w": [
+   "Marna jangi",
+   "Tannenberg jangi",
+   "Gallipoli jangi"
+  ],
+  "e": "Verdendagi o‘n oylik jang maqsadsiz qirg‘in ramzi bo‘ldi.",
+  "p": 54,
+  "src": "Verdendagi oʻn oylik jang maqsadsiz qirgʻinning ramziga aylanib qoldi"
+ },
+ {
+  "q": "Verden jangida Germaniya qancha kishidan ayrildi?",
+  "a": "600 ming kishi",
+  "w": [
+   "360 ming kishi",
+   "1 million kishi",
+   "100 ming kishi"
+  ],
+  "e": "Verdenda Germaniya 600 ming, fransuzlar esa 360 ming kishini yo‘qotdi.",
+  "p": 54,
+  "src": "Germaniya 600 ming kishidan ayrildi, fransuzlar esa 360 ming kishini yoʻqotdi"
+ },
+ {
+  "q": "Rossiya armiyasida 1917-yilda jangovarlik qachondan so‘ng susayib ketdi?",
+  "a": "Fevral inqilobidan so‘ng",
+  "w": [
+   "Oktyabr to‘ntarishidan so‘ng",
+   "Verden jangidan so‘ng",
+   "Serbiyaga ultimatum berilgandan so‘ng"
+  ],
+  "e": "Rossiya armiyasida 1917-yil Fevral inqilobidan so‘ng jangovarlik susaydi.",
+  "p": 54,
+  "src": "Rossiya armiyasida 1917-yil Fevral inqilobidan soʻng jangovarlik susayib"
+ },
+ {
+  "q": "1918-yilning o‘rtalariga kelib AQSH Yevropaga qancha qo‘shin kiritgan edi?",
+  "a": "1 millionga yaqin",
+  "w": [
+   "100 minggacha",
+   "5 millionga yaqin",
+   "10 millionga yaqin"
+  ],
+  "e": "AQSHning Antanta tomondan urushga kirishi katta ahamiyatga ega bo‘ldi: 1 mln ga yaqin qo‘shin kiritildi.",
+  "p": 54,
+  "src": "1918-yilning oʻrtalariga kelib AQSH Yevropaga 1 mln ga yaqin qoʻshin kiritgan"
+ },
+ {
+  "q": "Germaniya delegatsiyasi Antanta shartlarini imzolab, urush yakunlanganligi e’lon qilingan sana qaysi?",
+  "a": "1918-yil 11-noyabr",
+  "w": [
+   "1918-yil 28-iyun",
+   "1919-yil 28-iyun",
+   "1918-yil 1-avgust"
+  ],
+  "e": "1918-yil 11-noyabr kuni Germaniya shartlarni imzoladi va urush tugagani e’lon qilindi.",
+  "p": 54,
+  "src": "1918-yil 11-noyabr kuni Germaniya delegatsiyasi Antanta davlatlari tomonidan"
+ },
+ {
+  "q": "Birinchi jahon urushi qaysi davlatlar uchun imperialistik, bosqinchilik xarakteridan istisno bo‘lgan?",
+  "a": "Serbiya, Chernogoriya va Belgiya",
+  "w": [
+   "Germaniya, Avstriya-Vengriya va Turkiya",
+   "Buyuk Britaniya, Fransiya va Rossiya",
+   "AQSH, Yaponiya va Italiya"
+  ],
+  "e": "Serbiya, Chernogoriya, Belgiya va ozodlik uchun kurashgan xalqlardan tashqari barcha davlatlar g‘arazli manfaat ko‘zlagan.",
+  "p": 53,
+  "src": "Serbiya, Chernogoriya, Belgiya va ozodlik uchun kurashyotgan boshqa xalqlardan tashqari"
+ },
+ {
+  "q": "G‘olib davlatlarning Germaniyani talashi va tiz cho‘ktirishga urinishi qanday oqibatga olib keldi?",
+  "a": "Revanshizmning paydo bo‘lishiga",
+  "w": [
+   "Germaniyada monarxiya tiklanishiga",
+   "Millatlar Ligasi tarqalib ketishiga",
+   "Antanta bloki kuchayishiga"
+  ],
+  "e": "Bu harakatlar revanshizmni keltirib chiqardi va fashistlarning hokimiyatga kelishini osonlashtirdi.",
+  "p": 54,
+  "src": "reaksiya sifatida revanshizmning paydo boʻlishiga olib keldi"
+ }
+]

@@ -1,0 +1,338 @@
+[
+ {
+  "q": "Parij yaqinidagi Versal saroyida tinchlik konferensiyasi qaysi davrda bo‘lib o‘tdi?",
+  "a": "1919-yil 18-yanvardan 1920-yil 21-yanvargacha",
+  "w": [
+   "1918-yil 11-noyabrdan 1919-yil 28-iyungacha",
+   "1921-yil noyabrdan 1922-yil fevralgacha",
+   "1914-yil 28-iyuldan 1918-yil 11-noyabrgacha"
+  ],
+  "e": "Konferensiya 1919-yil 18-yanvardan 1920-yil 21-yanvargacha davom etdi.",
+  "p": 57,
+  "src": "1919-yil 18-yanvardan 1920-yil 21-yanvargacha"
+ },
+ {
+  "q": "Versal tinchlik konferensiyasida nechta davlat vakillari ishtirok etdi?",
+  "a": "27 ta",
+  "w": [
+   "12 ta",
+   "38 ta",
+   "62 ta"
+  ],
+  "e": "Konferensiya 27 davlat vakillari ishtirokida o‘tdi.",
+  "p": 57,
+  "src": "27 davlat vakillari ishtirokida tinchlik konferensiyasi boʻlib oʻtdi"
+ },
+ {
+  "q": "Germaniya Versal tinchlik shartnomasini qachon imzoladi?",
+  "a": "1919-yil 28-iyunda",
+  "w": [
+   "1918-yil 11-noyabrda",
+   "1919-yil 18-yanvarda",
+   "1922-yil fevralda"
+  ],
+  "e": "Germaniya Versal shartnomasini 1919-yil 28-iyunda imzoladi.",
+  "p": 57,
+  "src": "1919-yil 28-iyunda Germaniya Versal tinchlik shartnomasini imzoladi"
+ },
+ {
+  "q": "Versal shartnomasiga ko‘ra, qaysi davlat Birinchi jahon urushi boshlanishi uchun yagona javobgar deb e’lon qilindi?",
+  "a": "Germaniya",
+  "w": [
+   "Avstriya-Vengriya",
+   "Rossiya",
+   "Turkiya"
+  ],
+  "e": "Shartnomaga ko‘ra Germaniya yagona javobgar davlat deb e’lon qilindi.",
+  "p": 57,
+  "src": "Birinchi jahon urushi boshlanishi uchun yagona javobgar davlat deb eʼlon qilindi"
+ },
+ {
+  "q": "Birinchi jahon urushidan keyin qaysi imperiyalar tarqalib ketdi?",
+  "a": "Germaniya, Avstriya-Vengriya, Rossiya va Usmoniylar",
+  "w": [
+   "Buyuk Britaniya, Fransiya va Yaponiya",
+   "Germaniya, Italiya va Yaponiya",
+   "Rossiya, Britaniya va Fransiya"
+  ],
+  "e": "Urush natijasida to‘rt imperiya tarqalib ketdi.",
+  "p": 57,
+  "src": "Germaniya, Avstriya-Vengriya, Rossiya va Usmoniylar imperiyalari tarqalib ketdi"
+ },
+ {
+  "q": "1919-yili tashkil etilgan Millatlar Ligasining asosiy vazifalari nimalardan iborat edi?",
+  "a": "Tinchlik uchun kurash, xalqlar hamkorligi va xavfsizlik masalalari",
+  "w": [
+   "Mag‘lub davlatlardan tovon undirish",
+   "Dengizdagi qurollarni cheklash va Uzoq Sharq masalalari",
+   "Jahon iqtisodiy inqirozini bartaraf etish"
+  ],
+  "e": "Liganing asosiy vazifalari jahonda tinchlik, xalqlar hamkorligi va xavfsizlik masalalari edi.",
+  "p": 57,
+  "src": "xalqlar oʻrtasida hamkorlik va xavfsizlik masalalari Millatlar Ligasining asosiy vazifalari"
+ },
+ {
+  "q": "Mag‘lub davlatlar mustamlakalarini g‘olib davlatlar bo‘lib olishini qonuniylashtirish uchun Millatlar Ligasi Ustaviga qaysi tushuncha kiritildi?",
+  "a": "Mandat",
+  "w": [
+   "Izolyatsionizm",
+   "Neytralitet",
+   "Ultimatum"
+  ],
+  "e": "Buni qonuniylashtirish uchun Ustavga mandat tushunchasi kiritildi.",
+  "p": 57,
+  "src": "Buni qonuniylashtirish uchun Millatlar Ligasi Ustaviga mandat tushunchasi kiritildi"
+ },
+ {
+  "q": "Mandat nima?",
+  "a": "Shaxsning vakolatini yoki muayyan narsaga huquqini tasdiqlovchi hujjat",
+  "w": [
+   "Boshqa davlatlar ishiga aralashmaslik g‘oyasi",
+   "Urushayotgan davlatlarga qurol yetkazishni taqiqlash",
+   "Mag‘lub davlatdan olinadigan tovon"
+  ],
+  "e": "Mandat – biror shaxsning vakolatini, muayyan narsaga huquqini tasdiqlovchi hujjat.",
+  "p": 60,
+  "src": "Mandat – biror shaxsning vakolatini, muayyan narsaga huquqini tasdiqlovchi"
+ },
+ {
+  "q": "Vashington konferensiyasi qanday maqsadda chaqirildi?",
+  "a": "Uzoq Sharq va Tinch okeandagi bahsli muammolarni hal qilish va dengizdagi qurollarni cheklash",
+  "w": [
+   "Germaniyadan urush tovonini undirish va mag‘lub davlatlar chegaralarini qayta belgilash",
+   "Millatlar Ligasi ustavini tayyorlash va uning mandat tizimini joriy etish",
+   "Iqtisodiy inqirozdan chiqish yo‘llarini topish va ishsizlikka barham berish"
+  ],
+  "e": "Konferensiya 1921–1922-yillarda shu maqsadda bo‘lib o‘tdi.",
+  "p": 58,
+  "src": "hal qilish va dengizdagi qurollarni cheklash maqsadida"
+ },
+ {
+  "q": "Vashington konferensiyasida qaysi davlatlar o‘rtasida shartnoma imzolandi?",
+  "a": "AQSH, Buyuk Britaniya, Fransiya va Yaponiya",
+  "w": [
+   "Germaniya, Italiya, Yaponiya va AQSH",
+   "Rossiya, Fransiya, Italiya va Buyuk Britaniya",
+   "AQSH, Germaniya, Fransiya va Xitoy"
+  ],
+  "e": "Shartnoma AQSH, Buyuk Britaniya, Fransiya va Yaponiya o‘rtasida imzolandi.",
+  "p": 58,
+  "src": "AQSH, Buyuk Britaniya, Fransiya va Yaponiya oʻrtasida shartnoma imzolandi"
+ },
+ {
+  "q": "Xalqaro munosabatlarning Versal-Vashington tizimi nomini nima oldi?",
+  "a": "1919–1923-yillari imzolangan shartnomalar va kuchlarning yangi nisbati",
+  "w": [
+   "1914–1918-yillardagi urush harakatlari va ittifoqlar nisbati",
+   "Millatlar Ligasi a’zo davlatlarining harbiy-siyosiy ittifoqi",
+   "1929–1932-yillardagi iqtisodiy inqiroz oqibatlari va yangi kurs"
+  ],
+  "e": "Shartnomalar va jahondagi kuchlarning yangi nisbati Versal-Vashington tizimi deb ataldi.",
+  "p": 58,
+  "src": "1919–1923-yillari imzolangan shartnomalar va jahondagi kuchlarning yangi"
+ },
+ {
+  "q": "Versal-Vashington tizimi dunyo siyosatida nimani aks ettirdi?",
+  "a": "AQSH ta’sirining sezilarli kuchayganini",
+  "w": [
+   "Fransiya hukmronligining tugaganini",
+   "Germaniyaning yetakchilikka qaytganini",
+   "Millatlar Ligasi vakolatlari kengayganini"
+  ],
+  "e": "Tizim bir guruh davlatlar hukmronligini va AQSH ta’siri kuchayganini aks ettirdi.",
+  "p": 58,
+  "src": "AQSH taʼsirining sezilarli kuchayganligini aks ettirdi"
+ },
+ {
+  "q": "Jahon iqtisodiy inqirozi AQSHda qaysi sanada Nyu York fond birjasida boshlandi?",
+  "a": "1929-yil 24-oktyabr",
+  "w": [
+   "1914-yil 28-iyul",
+   "1932-yil noyabr",
+   "1933-yil mart"
+  ],
+  "e": "Inqiroz 1929-yil 24-oktyabrda boshlandi.",
+  "p": 58,
+  "src": "1929-yil 24-oktyabrda Nyu York fond"
+ },
+ {
+  "q": "1929–1932-yillari AQSHda sanoat ishlab chiqarish hajmi necha foizga qisqardi?",
+  "a": "50 foizga",
+  "w": [
+   "10 foizga",
+   "25 foizga",
+   "75 foizga"
+  ],
+  "e": "Sanoat ishlab chiqarish hajmi 50% ga qisqardi.",
+  "p": 58,
+  "src": "1929–1932-yillari sanoat ishlab chiqarish hajmi 50% ga qisqardi"
+ },
+ {
+  "q": "Inqiroz yillarida AQSHda taxminan qancha kishi ish joyidan mahrum bo‘ldi?",
+  "a": "13 millionga yaqin",
+  "w": [
+   "1 millionga yaqin",
+   "3 millionga yaqin",
+   "30 millionga yaqin"
+  ],
+  "e": "13 millionga yaqin kishi ish joylaridan mahrum bo‘ldi.",
+  "p": 58,
+  "src": "13 millionga yaqin kishi oʻz ish joylaridan mahrum boʻldi"
+ },
+ {
+  "q": "1932-yil noyabrdagi saylovlarda “yangi kurs” va’da qilib, kim g‘olib chiqdi?",
+  "a": "Franklin Ruzvelt",
+  "w": [
+   "Nevill Chemberlen",
+   "Uinston Cherchill",
+   "Vilgelm II"
+  ],
+  "e": "Amerika xalqiga yangi kurs va’da qilgan Franklin Ruzvelt g‘olib chiqdi.",
+  "p": 58,
+  "src": "Amerika xalqiga yangi kurs vaʼda qilgan Franklin Ruzvelt gʻolib chiqdi"
+ },
+ {
+  "q": "AQSH SSSR bilan diplomatik munosabatlarni qaysi yili o‘rnatdi?",
+  "a": "1933-yili",
+  "w": [
+   "1919-yili",
+   "1929-yili",
+   "1939-yili"
+  ],
+  "e": "Tashqi siyosatda AQSH 1933-yili SSSR bilan diplomatik aloqa o‘rnatdi.",
+  "p": 59,
+  "src": "AQSH 1933-yili SSSR bilan diplomatik munosabatlar oʻrnatdi"
+ },
+ {
+  "q": "Ikkinchi jahon urushi boshlanguncha AQSH hukumatining ustuvor siyosati qanday bo‘lib qoldi?",
+  "a": "Izolyatsionizm",
+  "w": [
+   "Ekspansionizm",
+   "Militarizm",
+   "Totalitarizm"
+  ],
+  "e": "Izolyatsionizm AQSH hukumatining ustuvor siyosati bo‘lib qoldi.",
+  "p": 59,
+  "src": "boshlanguncha izolyatsionizm AQSH hukumatining ustuvor siyosati boʻlib qoldi"
+ },
+ {
+  "q": "Izolyatsionizm nima?",
+  "a": "Boshqa davlatlar ishlariga aralashmaslik g‘oyasiga asoslangan tashqi siyosat yo‘nalishi",
+  "w": [
+   "Mustamlakalarni bo‘lib olishga asoslangan tashqi siyosat yo‘nalishi",
+   "Harbiy-siyosiy bloklar tuzishga asoslangan tashqi siyosat yo‘nalishi",
+   "Mag‘lub davlatlarni jazolashga asoslangan tashqi siyosat yo‘nalishi"
+  ],
+  "e": "Izolyatsionizm – boshqa davlatlar ishlariga aralashmaslik g‘oyasiga asoslangan siyosat.",
+  "p": 60,
+  "src": "aralashmaslik g‘oyasiga asoslangan tashqi siyosat yo‘nalishini belgilash"
+ },
+ {
+  "q": "Birinchi jahon urushidan so‘ng Buyuk Britaniyaning iqtisodiy holatida qanday o‘zgarish yuz berdi?",
+  "a": "Kreditor davlatdan AQSH va dominionlarga qarzdor davlatga aylandi",
+  "w": [
+   "Qarzdor davlatdan AQSH va dominionlarga kredit beruvchi davlatga aylandi",
+   "Mustamlakalarini butunlay yo‘qotib, dominionlar mustaqilligini tan oldi",
+   "Iqtisodiy o‘sish sur’atlari juda yuqori bo‘lib, sanoat gullab-yashnadi"
+  ],
+  "e": "Urushdan oldin kreditor bo‘lgan Buyuk Britaniya AQSH va dominionlardan qarzdor bo‘lib qoldi.",
+  "p": 59,
+  "src": "Urushdan oldin kreditor boʻlgan Buyuk Britaniya AQSHdan va oʻz dominionlaridan qarzdor boʻlib qoldi"
+ },
+ {
+  "q": "Jahon iqtisodiy inqirozi Buyuk Britaniya iqtisodiyotiga qanday ta’sir qildi?",
+  "a": "Unchalik katta ta’sir qilmadi",
+  "w": [
+   "Iqtisodiyotni butunlay izdan chiqardi",
+   "Sanoat ishlab chiqarishini yarmiga qisqartirdi",
+   "Mamlakatda fashistik rejimni o‘rnatdi"
+  ],
+  "e": "Inqiroz Buyuk Britaniya iqtisodiyotiga unchalik katta ta’sir qilmadi.",
+  "p": 59,
+  "src": "jahon iqtisodiy inqirozi Buyuk Britaniya iqtisodiyotiga unchalik katta taʼsir qilmadi"
+ },
+ {
+  "q": "Buyuk Britaniya inqirozdan qaysi yildan boshlab chiqa boshladi?",
+  "a": "1934-yildan",
+  "w": [
+   "1929-yildan",
+   "1932-yildan",
+   "1940-yildan"
+  ],
+  "e": "1934-yildan boshlab mamlakat inqirozdan chiqa boshladi.",
+  "p": 59,
+  "src": "1934-yildan boshlab mamlakat inqirozdan chiqa boshladi"
+ },
+ {
+  "q": "Nevill Chemberlen qaysi voqea natijasida hukumat boshlig‘i lavozimidan iste’foga chiqishga majbur bo‘ldi?",
+  "a": "1938-yilgi Myunxen kelishuvining imzolanishi",
+  "w": [
+   "Versal shartnomasining imzolanishi",
+   "Vashington konferensiyasining o‘tkazilishi",
+   "Nyu York fond birjasidagi inqiroz"
+  ],
+  "e": "Myunxen kelishuvi natijasida Chemberlen 1940-yili iste’foga chiqdi.",
+  "p": 59,
+  "src": "1938-yili Myunxen kelishuvining imzolanishi natijasida Nevill Chemberlen"
+ },
+ {
+  "q": "1940-yildan Buyuk Britaniya hukumatini kim boshqardi?",
+  "a": "Uinston Cherchill",
+  "w": [
+   "Nevill Chemberlen",
+   "Franklin Ruzvelt",
+   "Vilgelm II"
+  ],
+  "e": "Hukumatni XX asr Britaniya tarixida katta rol o‘ynagan Uinston Cherchill boshqardi.",
+  "p": 59,
+  "src": "siyosatchi Uinston Cherchill boshqardi"
+ },
+ {
+  "q": "Birinchi jahon urushidan keyin Fransiya qaysi davlatdan qarzdor bo‘lib qoldi?",
+  "a": "AQSHdan",
+  "w": [
+   "Germaniyadan",
+   "Yaponiyadan",
+   "Italiyadan"
+  ],
+  "e": "Pul keskin qadrsizlanib, Fransiya AQSHdan qarzdor bo‘lib qoldi.",
+  "p": 59,
+  "src": "Fransiya AQSHdan qarzdor boʻlib qoldi"
+ },
+ {
+  "q": "Versal shartnomasiga binoan Fransiya qaysi hududlarni qaytarib oldi?",
+  "a": "Elzas va Lotaringiyani",
+  "w": [
+   "Dalmatiya va Chernogoriyani",
+   "Sarayevo va Albaniyani",
+   "Tunis va Jazoirni"
+  ],
+  "e": "Fransiya Elzas va Lotaringiyani qaytarib oldi, Saar ko‘mir havzasini egalladi.",
+  "p": 60,
+  "src": "Fransiya Elzas va Lotaringiyani qaytarib oldi"
+ },
+ {
+  "q": "Fransiyada fashistlar faollashgan paytda hukumat qanday siyosat olib bordi va bu nimaga sabab bo‘ldi?",
+  "a": "Aralashmaslik siyosati olib bordi, bu Uchinchi respublika halokatiga sabab bo‘ldi",
+  "w": [
+   "Fashistlarga qarshi qat’iy kurash olib bordi, bu respublikani mustahkamladi",
+   "Millatlar Ligasidan chiqdi, bu iqtisodiy o‘sishga sabab bo‘ldi",
+   "Mustamlakalarini taqsimladi, bu urushga sabab bo‘ldi"
+  ],
+  "e": "Aralashmaslik siyosati Uchinchi respublikani halokatga olib kelgan omillardan biri bo‘ldi.",
+  "p": 60,
+  "src": "Aynan shu hol Uchinchi respublikani halokatga olib kelgan asosiy omillardan biri boʻldi"
+ },
+ {
+  "q": "Fransiyada sanoat ishlab chiqarishi 1930-yillar oxirida qanday holatda edi?",
+  "a": "Inqirozdan oldingi darajasiga yetmagan edi",
+  "w": [
+   "Inqirozdan oldingi darajadan ikki baravar oshgan edi",
+   "To‘liq tiklangan edi",
+   "Butunlay to‘xtab qolgan edi"
+  ],
+  "e": "Sanoat ishlab chiqarishi 1930-yillar oxirida ham inqirozdan oldingi darajasiga yetmadi.",
+  "p": 60,
+  "src": "1930-yillar oxirida ham inqirozdan oldingi darajasiga yetmadi"
+ }
+]

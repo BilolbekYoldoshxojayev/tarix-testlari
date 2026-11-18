@@ -1,0 +1,338 @@
+[
+ {
+  "q": "Napoleon urushlaridan keyingi davrda Angliya jahon siyosatida qanday nom oldi?",
+  "a": "“jahon ustaxonasi”",
+  "w": [
+   "“dengizlar malikasi”",
+   "“Yevropa darvozasi”",
+   "“sanoat beshigi”"
+  ],
+  "e": "Angliya uzoq yillar jahon siyosatida yetakchi o‘rinni egallab, “jahon ustaxonasi” degan nom oldi.",
+  "p": 12,
+  "src": "ustaxonasi” degan nom oldi"
+ },
+ {
+  "q": "XIX asrning o‘rtalariga kelib Angliyada qanday jamiyat shakllandi?",
+  "a": "Barqaror fuqarolik jamiyati",
+  "w": [
+   "Mutlaq monarxiya asosidagi jamiyat",
+   "Feodal-tabaqaviy jamiyat",
+   "Inqilobiy-sotsialistik jamiyat"
+  ],
+  "e": "XIX asr o‘rtalarida Angliyada barqaror fuqarolik jamiyati shakllandi.",
+  "p": 12,
+  "src": "yada barqaror fuqarolik jamiyati"
+ },
+ {
+  "q": "Angliya taraqqiyotning qaysi yo‘lini tanladi?",
+  "a": "Evolyutsion yo‘lni",
+  "w": [
+   "Inqilobiy yo‘lni",
+   "Radikal yo‘lni",
+   "Mustamlakachilik yo‘lini"
+  ],
+  "e": "Inqilob tarafdori radikal kuchlar siyosiy jarayonlardan chetlatildi, Angliya evolyutsion yo‘lni tanladi.",
+  "p": 12,
+  "src": "Angliya taraqqiyotning evolyutsion"
+ },
+ {
+  "q": "XIX asrning 70-yillariga kelib Angliya sanoatning rivojlanish sur’atlari bo‘yicha qaysi mamlakatlardan ortda qola boshladi?",
+  "a": "Germaniya va AQSH",
+  "w": [
+   "Fransiya va Rossiya",
+   "Italiya va Avstriya-Vengriya",
+   "Yaponiya va Niderlandiya"
+  ],
+  "e": "Angliya Germaniya va AQSH kabi yosh sanoat mamlakatlaridan ortda qola boshladi.",
+  "p": 12,
+  "src": "Germaniya va AQSH kabi yosh"
+ },
+ {
+  "q": "Angliya sanoati nisbatan sekin rivojlanishining asosiy sababi nima edi?",
+  "a": "Texnik qoloqlik",
+  "w": [
+   "Xomashyo yetishmasligi",
+   "Ishchi kuchining kamligi",
+   "Mustamlakalarning yo‘qligi"
+  ],
+  "e": "Angliya sanoati sekin rivojlanishining asosiy sababi uning texnik qoloqligi edi.",
+  "p": 12,
+  "src": "asosiy sababi uning texnik qoloqligi"
+ },
+ {
+  "q": "Angliyada ko‘plab zavod va fabrikalarning uskunalari nima uchun eskirib qolgan edi?",
+  "a": "Sanoat u yerda ancha oldin paydo bo‘lgani uchun",
+  "w": [
+   "Urushlar vayron qilgani uchun",
+   "Ishchilar ish tashlagani uchun",
+   "Uskunalar mustamlakalarga sotilgani uchun"
+  ],
+  "e": "Germaniya va AQSHda korxonalar eng ilg‘or texnika asosida qurilgan, Angliyada esa sanoat ancha oldin paydo bo‘lgan.",
+  "p": 12,
+  "src": "Angliyada esa sanoat ancha oldin"
+ },
+ {
+  "q": "XX asr boshlariga kelib qaysi davlat dunyoning birinchi sanoat mamlakatiga aylandi?",
+  "a": "AQSH",
+  "w": [
+   "Germaniya",
+   "Fransiya",
+   "Rossiya"
+  ],
+  "e": "XX asr boshlariga kelib AQSH dunyoning birinchi sanoat mamlakatiga aylandi, Germaniya esa Angliyani quvib o‘ta boshladi.",
+  "p": 12,
+  "src": "XX asr boshlariga kelib AQSH dunyoning birinchi sanoat mamlakatiga aylandi"
+ },
+ {
+  "q": "Germaniya qaysi sohada katta tezlik bilan Angliyani quvib o‘ta boshladi?",
+  "a": "Metallurgiya",
+  "w": [
+   "Kemasozlik",
+   "To‘qimachilik",
+   "Qishloq xo‘jaligi"
+  ],
+  "e": "Germaniya sanoati bir qator muhim sohalar, masalan, metallurgiya bo‘yicha Angliyani quvib o‘ta boshladi.",
+  "p": 12,
+  "src": "muhim sohalar, masalan, metallurgiya"
+ },
+ {
+  "q": "Birinchi jahon urushi arafasida moliya bozorida yetakchilik qilgan beshta yirik bank Londonning qaysi dahasida joylashgan edi?",
+  "a": "Siti",
+  "w": [
+   "Vestminster",
+   "Mayfeyr",
+   "Kensington"
+  ],
+  "e": "Banklar Londonning markaziy dahasi – Sitida joylashgan bo‘lib, butun dunyo bo‘ylab filiallarga ega edi.",
+  "p": 13,
+  "src": "Londonning markaziy dahasi – Sitida joylashgan"
+ },
+ {
+  "q": "Banklarning o‘z kapitallarini butun dunyo bo‘ylab foydali sohalarga joylashtirishi qanday ataldi?",
+  "a": "Kapital eksporti",
+  "w": [
+   "Moliyaviy monopoliya",
+   "Kapital konsentratsiyasi",
+   "Bank integratsiyasi"
+  ],
+  "e": "Banklarning kapitalni dunyo bo‘ylab foydali sohalarga joylashtirish jarayoni kapital eksporti deb ataldi.",
+  "p": 13,
+  "src": "Bu banklar oʻz kapitallarini butun dunyo boʻylab"
+ },
+ {
+  "q": "Britaniya imperiyasining hududi 1884-yildan 1900-yilgacha necha foizga kengaydi?",
+  "a": "30 foizga",
+  "w": [
+   "10 foizga",
+   "20 foizga",
+   "50 foizga"
+  ],
+  "e": "Imperiya hududi 1884–1900-yillarda 30% ga kengaydi, aholisi bir yarim marta ko‘paydi.",
+  "p": 13,
+  "src": "1884-yildan 1900-yilgacha 30% ga kengaydi"
+ },
+ {
+  "q": "Birinchi jahon urushi arafasida ingliz mustamlakalarida qancha kishi yashardi?",
+  "a": "400 mln",
+  "w": [
+   "150 mln",
+   "250 mln",
+   "600 mln"
+  ],
+  "e": "Birinchi jahon urushi arafasida ingliz mustamlakalarida 400 mln kishi yashardi.",
+  "p": 13,
+  "src": "400 mln kishi yashardi"
+ },
+ {
+  "q": "Mustamlakalar uchun bo‘lgan urushlarning eng yirigi bo‘lgan ingliz-bur urushi qaysi yillarda bo‘lib o‘tdi?",
+  "a": "1899–1902-yillarda",
+  "w": [
+   "1884–1887-yillarda",
+   "1895–1898-yillarda",
+   "1904–1907-yillarda"
+  ],
+  "e": "Mustamlakalar uchun urushlarning eng yirigi 1899–1902-yillardagi ingliz-bur urushi bo‘ldi.",
+  "p": 13,
+  "src": "1899–1902-yillardagi ingliz-bur"
+ },
+ {
+  "q": "Burlar Janubiy Afrikada qaysi ikki respublikani tuzgan edi?",
+  "a": "Transvaal va Oranj",
+  "w": [
+   "Natal va Kap",
+   "Transvaal va Natal",
+   "Oranj va Rodeziya"
+  ],
+  "e": "Burlar Janubiy Afrikada Transvaal va Oranj nomli ikkita respublika tuzgan edi.",
+  "p": 13,
+  "src": "Afrikada Transvaal va Oranj nomli ikkita respublika"
+ },
+ {
+  "q": "Burlar kimlarning avlodlari hisoblanadi?",
+  "a": "Gollandiyalik mustamlakachilarning",
+  "w": [
+   "Fransuz muhojirlarning",
+   "Portugaliyalik savdogarlarning",
+   "Nemis ko‘chmanchilarining"
+  ],
+  "e": "Burlar gollandiyalik mustamlakachilarning avlodlari bo‘lib, asosan chorvachilik bilan shug‘ullangan.",
+  "p": 13,
+  "src": "Burlar gollandiyalik mustamlakachilarning avlodlari"
+ },
+ {
+  "q": "Angliyaning mustamlakachilik intilishlari jahon jamoatchiligi tomonidan qoralanishi oqibatida nima yuz berdi?",
+  "a": "Uning xalqaro nufuzi tushib ketdi",
+  "w": [
+   "Mustamlakalari avtonomiya oldi",
+   "Sanoati jadal rivojlandi",
+   "Parlamenti tarqatib yuborildi"
+  ],
+  "e": "Mustamlakachilik intilishlarining qoralanishi xalqaro maydonda Angliya nufuzining tushib ketishiga olib keldi.",
+  "p": 14,
+  "src": "Bu esa xalqaro maydonda uning nufuzi tushib ketishiga"
+ },
+ {
+  "q": "Dominion nima?",
+  "a": "Ingliz qirolini davlat boshlig‘i deb tan oladigan, imperiya tarkibidagi davlat",
+  "w": [
+   "Britaniya parlamentiga to‘la bo‘ysunadigan, avtonomiyasiz mustamlaka",
+   "Imperiyadan to‘liq mustaqil bo‘lib, o‘z prezidentiga ega respublika",
+   "Ingliz qo‘shinlari joylashgan va flotga xizmat qiladigan harbiy baza"
+  ],
+  "e": "Dominion (qaram yer) – ingliz qiroli (qirolicha)ni davlat boshlig‘i deb tan oladigan va imperiya tarkibidagi davlat.",
+  "p": 15,
+  "src": "Dominion (qaram yer) – ingliz qiroli (qirolicha)ni davlat boshligʻi deb tan oladigan"
+ },
+ {
+  "q": "Mahalliy aholisi to‘liq qirilib ketgan ba’zi ingliz mustamlakalarida aholini endi kimlar tashkil eta boshladi?",
+  "a": "Yevropaliklar, asosan inglizlar",
+  "w": [
+   "Osiyolik muhojirlar",
+   "Afrikalik ko‘chmanchilar",
+   "Fransuz va nemis ko‘chmanchilari"
+  ],
+  "e": "Mahalliy aholisi qirilib ketgan yerlarning aholisini endi yevropaliklar, asosan inglizlar tashkil eta boshlagan.",
+  "p": 14,
+  "src": "yevropaliklar, asosan inglizlar"
+ },
+ {
+  "q": "1868-yili shaharlarda ishchilarning bir qismi qanday huquqqa ega bo‘ldi?",
+  "a": "Saylov huquqiga",
+  "w": [
+   "Ish tashlash huquqiga",
+   "Yer egalik qilish huquqiga",
+   "Lordlar palatasiga saylanish huquqiga"
+  ],
+  "e": "Angliya evolyutsion yo‘lni tanlagani uchun saylov islohotlari davom ettirildi; 1868-yili shaharlarda ishchilarning bir qismi saylov huquqini oldi.",
+  "p": 14,
+  "src": "1868-yili shaharlarda ishchilarning bir qismi saylov"
+ },
+ {
+  "q": "Qirolicha Viktoriya qaysi yili vafot etdi?",
+  "a": "1901-yili",
+  "w": [
+   "1884-yili",
+   "1899-yili",
+   "1914-yili"
+  ],
+  "e": "Imperiyaga 64 yil hukmronlik qilgan qirolicha Viktoriya 1901-yili vafot etdi.",
+  "p": 14,
+  "src": "qirolicha Viktoriya 1901-yili vafot etdi"
+ },
+ {
+  "q": "Qirolicha Viktoriya vafotidan keyin taxtga kim keldi?",
+  "a": "Uning katta o‘g‘li Eduard VII",
+  "w": [
+   "Uning nabirasi Georg V",
+   "Uning ukasi Vilgelm IV",
+   "Uning kenja o‘g‘li Alfred"
+  ],
+  "e": "Taxtga Viktoriyaning katta o‘g‘li Eduard VII keldi.",
+  "p": 14,
+  "src": "taxtga uning katta oʻgʻli Eduard VII keldi"
+ },
+ {
+  "q": "Eduard VII ingliz diplomatiyasida hukmronlik qilgan qaysi siyosatni tugatdi?",
+  "a": "“Ajoyib izolyatsiya” siyosatini",
+  "w": [
+   "“Qit’a qamali” siyosatini",
+   "“Yangi kurs” siyosatini",
+   "“Oq tanlilar yuki” siyosatini"
+  ],
+  "e": "Eduard VII “ajoyib izolyatsiya” siyosatini tugatdi.",
+  "p": 14,
+  "src": "“ajoyib izolyatsiya” siyosatini tugatdi"
+ },
+ {
+  "q": "Eduard VII siyosatining muvaffaqiyati deb nima aytiladi?",
+  "a": "Angliya va Fransiya munosabatlarining iliqlashuvi",
+  "w": [
+   "Germaniya bilan harbiy ittifoq tuzilishi",
+   "Usmoniylar imperiyasi bilan kelishuv",
+   "Avstriya-Vengriya bilan savdo shartnomasi"
+  ],
+  "e": "Qirol siyosatining muvaffaqiyati deb Angliya bilan Fransiya o‘rtasidagi munosabatlarning iliqlashuvi aytiladi.",
+  "p": 14,
+  "src": "deb Angliya bilan Fransiya oʻrtasidagi munosabatlarning iliqlashuvini"
+ },
+ {
+  "q": "Jozef Redyard Kiplingning qarashlari qaysi she’rida o‘z ifodasini topgan?",
+  "a": "“Oq tanlilar yuki”",
+  "w": [
+   "“Imperiya mifi”",
+   "“Britaniya dunyosi”",
+   "“Sivilizatsiya yuki”"
+  ],
+  "e": "Kipling qarashlari “Oq tanlilar yuki” deb nomlangan she’rida ifodalangan.",
+  "p": 14,
+  "src": "“Oq tanlilar yuki” deb nomlangan"
+ },
+ {
+  "q": "Kiplingning fikricha, “madaniyatdan orqada qolgan” xalqlarga kim yordam berishi mumkin?",
+  "a": "Faqat oq tanlilar",
+  "w": [
+   "Faqat Osiyo davlatlari",
+   "Xalqaro tashkilotlar",
+   "Ularning o‘z hukmdorlari"
+  ],
+  "e": "Kipling “madaniyatdan orqada qolgan” xalqlarga faqat oq tanlilar yordam berishi mumkinligiga chin dildan ishongan.",
+  "p": 14,
+  "src": "xalqlarga faqat oq tanlilar yordam berishi mumkinligiga"
+ },
+ {
+  "q": "Quyidagilardan qaysi biri Kipling bilan bir qatorda imperiya maddohlari sifatida tilga olinadi?",
+  "a": "Sesil Rods",
+  "w": [
+   "Jon Lokk",
+   "Tomas Gobbs",
+   "Adam Smit"
+  ],
+  "e": "Kipling Charlz Dilk, Jon Sili va Sesil Rods singari imperiya maddohlari qatoridan joy oladi.",
+  "p": 15,
+  "src": "Charlz Dilk, Jon Sili va Sesil Rods"
+ },
+ {
+  "q": "Imperiya haqidagi mifning markazida qanday tasavvur yotadi?",
+  "a": "Britaniyaliklar boshqaruvi eng yaxshi boshqaruv usuli",
+  "w": [
+   "Mustamlakalar o‘zini mustaqil boshqarishga qodir",
+   "Imperiya xalqlari bir-biriga teng",
+   "Parlament boshqaruvi monarxiyadan afzal"
+  ],
+  "e": "Mifning markazida britaniyaliklar boshqaruvi eng yaxshi boshqaruv usuli ekanligi haqidagi tasavvur yotadi.",
+  "p": 15,
+  "src": "boshqaruvi eng yaxshi boshqaruv usuli ekanligi haqidagi tasavvur"
+ },
+ {
+  "q": "XIX asr o‘rtalaridagi iqtisodiy yuksalish davrida ingliz kasaba uyushmalari qanday talablar uchun kurashdi?",
+  "a": "Ish vaqtini qisqartirish va o‘z faoliyatini legallashtirish",
+  "w": [
+   "Ish haqini ikki baravar oshirish va soliqlarni bekor qilish",
+   "Lordlar palatasini tarqatib yuborish",
+   "Mustamlakalarda ishchi tashkilotlar ochish"
+  ],
+  "e": "Kasaba uyushmalarining bu kurashi ularning saflari sezilarli kengayishiga olib keldi.",
+  "p": 12,
+  "src": "ish vaqtini qisqartirish va oʻz faoliyatlarini legallashtirish"
+ }
+]

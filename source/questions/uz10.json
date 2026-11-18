@@ -1,0 +1,314 @@
+[
+ {
+  "q": "Tosh madrasani 1841-yilda kim qurdirgan?",
+  "a": "Mang‘it hokimi Xo‘janiyoz",
+  "w": [
+   "Qoraqum eshon",
+   "Otash Olshinboy",
+   "Xiva xoni"
+  ],
+  "e": "Tosh madrasa 1841-yil Mang‘it hokimi Xo‘janiyoz tomonidan qurdirilgan.",
+  "p": 62,
+  "src": "yil Mang‘it hokimi Xo‘janiyoz tomonidan qurdirilgan."
+ },
+ {
+  "q": "Qoraqum eshon madrasasi dastlab qanday vazifani bajargan?",
+  "a": "Masjid vazifasini",
+  "w": [
+   "Kutubxona vazifasini",
+   "Karvonsaroy vazifasini",
+   "Maktab vazifasini"
+  ],
+  "e": "Madrasa XIX asr o‘rtalarida qurilgan va dastlab masjid vazifasini bajargan.",
+  "p": 62,
+  "src": "Dastlab u masjid vazifasini bajargan."
+ },
+ {
+  "q": "Tosh madrasada ta’lim necha bosqichli bo‘lgan?",
+  "a": "Ikki bosqichli",
+  "w": [
+   "Bir bosqichli",
+   "Uch bosqichli",
+   "To‘rt bosqichli"
+  ],
+  "e": "Madrasada ta’lim ikki bosqichli bo‘lgan.",
+  "p": 62,
+  "src": "Madrasada ta’lim\nikki bosqichli bo‘lib,"
+ },
+ {
+  "q": "Tosh madrasada ta’limning birinchi bosqichida nima o‘rganilgan?",
+  "a": "Arab tili grammatikasi",
+  "w": [
+   "Diniy-huquqiy bilimlar",
+   "Tarix va geografiya",
+   "Hisob va handasa"
+  ],
+  "e": "Birinchi bosqichda arab tili grammatikasi, keyingi bosqichda diniy-huquqiy bilimlar o‘qitilgan.",
+  "p": 62,
+  "src": "ikki bosqichli bo‘lib, birinchi bosqichda arab tili grammatikasi o‘rganilgan\nbo‘lsa, keyingi bosqichda diniy-huquqiy bilimlar o‘qitilgan."
+ },
+ {
+  "q": "XIX asr boshlarida qoraqalpoqlarda nechta maktab bo‘lgan?",
+  "a": "318 ta",
+  "w": [
+   "138 ta",
+   "218 ta",
+   "418 ta"
+  ],
+  "e": "XIX asr boshlarida qoraqalpoqlarda 318 ta maktab bo‘lgan.",
+  "p": 62,
+  "src": "XIX asr boshlarida qoraqalpoqlarda 318 ta maktab,"
+ },
+ {
+  "q": "Qoraqalpoqlar maktab va madrasalardan tashqari qaysi shaharlarda ta’lim olgan?",
+  "a": "Buxoro va Xiva",
+  "w": [
+   "Samarqand va Toshkent",
+   "Qo‘qon va Andijon",
+   "Kitob va Shahrisabz"
+  ],
+  "e": "Qoraqalpoqlar Buxoro va Xiva shaharlarida ta’lim olganlar.",
+  "p": 62,
+  "src": "Bundan tashqari qoraqalpoqlar Buxoro va\nXiva shaharlarida ta’lim olganlar."
+ },
+ {
+  "q": "Kunxo‘ja o‘z ijodida nimani kuylagan?",
+  "a": "Oddiy ovul ahlining kundalik mehnati va turmushini",
+  "w": [
+   "Xonlarning saroy hayoti va ziyofatlarini",
+   "Jangu yurishlarda ko‘rsatilgan jasoratlarni",
+   "Savdogarlarning boyligi va sayohatlarini"
+  ],
+  "e": "Kunxo‘ja ovullarning oddiy ahlini, ularning kundalik mehnati va turmushini kuylagan.",
+  "p": 62,
+  "src": "ijodida ovullarning oddiy ahlini, ularning kundalik mehnati va turmushini\nkuyladi."
+ },
+ {
+  "q": "Ajiniyoz Qasiboy o‘g‘lining taxallusi qanday?",
+  "a": "Zevar",
+  "w": [
+   "Berdaq",
+   "Sodiq",
+   "Umar"
+  ],
+  "e": "Ajiniyozning taxallusi Zevar bo‘lgan.",
+  "p": 62,
+  "src": "Ajiniyoz Qasiboy o‘g‘li (taxal-\nlusi – Zevar)"
+ },
+ {
+  "q": "Ajiniyoz Xivadagi qaysi madrasada o‘qigan?",
+  "a": "Sherg‘ozixon madrasasi",
+  "w": [
+   "Qoraqum eshon madrasasi",
+   "Tosh madrasa",
+   "Eshonqal’a madrasasi"
+  ],
+  "e": "Ajiniyoz Mo‘ynoqdagi maktabda, so‘ngra Xivadagi Sherg‘ozixon madrasasida o‘qigan.",
+  "p": 62,
+  "src": "Mo‘ynoqdagi maktabda, so‘ngra Xivadagi Sherg‘ozixon\nmadrasasida o‘qigan."
+ },
+ {
+  "q": "Ajiniyoz qoraqalpoq ziyolilari orasida birinchilardan bo‘lib qanday darajaga erishgan?",
+  "a": "Oxund",
+  "w": [
+   "Eshon",
+   "Mulla",
+   "Qozi"
+  ],
+  "e": "U birinchilardan bo‘lib oxund (o‘qimishli, ilmli kishi) darajasiga erishgan.",
+  "p": 62,
+  "src": "Qoraqalpoq ziyolilari orasida birinchilardan bo‘lib\noxund (o‘qimishli, ilmli kishi;"
+ },
+ {
+  "q": "Ajiniyoz qaysi tillarni yaxshi bilgan?",
+  "a": "O‘zbek, qozoq, turkman",
+  "w": [
+   "Arab, fors, rus",
+   "O‘zbek, tojik, rus",
+   "Qozoq, qirg‘iz, tatar"
+  ],
+  "e": "Ajiniyoz o‘zbek, qozoq va turkman tillarini yaxshi bilgan.",
+  "p": 62,
+  "src": "O‘zbek, qozoq, turkman tillarini yaxshi bilgan."
+ },
+ {
+  "q": "Qoraqalpoq xalqining ko‘chib yurish jarayoni bilan bog‘liq voqealar Ajiniyozning qaysi dostonida katta mahorat bilan tasvirlangan?",
+  "a": "«Bo‘zatov»",
+  "w": [
+   "«Qirq qiz»",
+   "«Qiz Mengesh bilan aytishuv»",
+   "«Xalq uchun»"
+  ],
+  "e": "«Bo‘zatov» dostonida xalqning ko‘chib yurishi bilan bog‘liq voqealar tasvirlangan.",
+  "p": 63,
+  "src": "«Bo‘zatov» dostonida qoraqalpoq xalqi-\nning hayoti, ayniqsa, ularning ko‘chib yurish"
+ },
+ {
+  "q": "Ajiniyoz adabiy merosidan bizga nechtaga yaqin she’r va doston yetib kelgan?",
+  "a": "100 ga yaqin",
+  "w": [
+   "50 ga yaqin",
+   "200 ga yaqin",
+   "300 ga yaqin"
+  ],
+  "e": "Ajiniyozdan 100 ga yaqin she’r va doston yetib kelgan.",
+  "p": 63,
+  "src": "bizga 100 ga yaqin she’rlar va dostonlar ye-\ntib kelgan."
+ },
+ {
+  "q": "Ajiniyoz she’rlarida qanday g‘oyalar kuylangan?",
+  "a": "Vatanparvarlik va insonparvarlik",
+  "w": [
+   "Xonlarni ulug‘lash va itoatkorlik",
+   "Taqdirga tan berish, tarkidunyochilik",
+   "Mustamlakachilikni qo‘llab-quvvatlash"
+  ],
+  "e": "Uning she’rlarida vatanparvarlik va insonparvarlik g‘oyalari kuylangan.",
+  "p": 63,
+  "src": "Uning she’rlarida vatanparvarlik,\ninsonparvarlik g‘oyalari"
+ },
+ {
+  "q": "Berdaq (1827–1900) qayerda tug‘ilgan?",
+  "a": "Orolbo‘yida",
+  "w": [
+   "Xivada",
+   "Buxoroda",
+   "Qo‘ng‘irotda"
+  ],
+  "e": "Berdaq Orolbo‘yida tug‘ilgan.",
+  "p": 63,
+  "src": "Berdaq (1827–1900) Orolbo‘yida tug‘il-\ngan."
+ },
+ {
+  "q": "Berdaq ovul maktabidan so‘ng qaysi madrasada o‘qigan?",
+  "a": "Qoraqum eshon madrasasi",
+  "w": [
+   "Sherg‘ozixon madrasasi",
+   "Tosh madrasa",
+   "Eshonqal’a madrasasi"
+  ],
+  "e": "Berdaq ovul maktabida, so‘ngra Qoraqum eshon madrasasida o‘qigan.",
+  "p": 63,
+  "src": "Ovul maktabida, so‘ngra Qoraqum eshon\nmadrasasida o‘qigan."
+ },
+ {
+  "q": "Berdaq necha yoshidan she’r yoza boshlagan?",
+  "a": "20 yoshidan",
+  "w": [
+   "15 yoshidan",
+   "25 yoshidan",
+   "30 yoshidan"
+  ],
+  "e": "Berdaq 20 yoshidan she’r yoza boshlagan va yarim asr davomida o‘lanlar to‘qigan.",
+  "p": 63,
+  "src": "20 yoshidan she’rlar\nyoza boshlagan va yarim asr davomida"
+ },
+ {
+  "q": "Berdaq she’rlarida qanday tuyg‘ular ustuvor bo‘lgan?",
+  "a": "Zulmni qoralovchi tuyg‘ular va jo‘shqinlik",
+  "w": [
+   "Xonlarni madh etuvchi tuyg‘ular",
+   "Dunyodan voz kechish tuyg‘ulari",
+   "Mustamlakachilarga sadoqat tuyg‘ulari"
+  ],
+  "e": "Berdaq she’rlarida zulmni qoralovchi tuyg‘ular, jo‘shqinlik ustuvor bo‘lgan.",
+  "p": 63,
+  "src": "da zulmni qoralovchi tuyg‘ular, jo‘shqinlik ustu-\nvor bo‘lgan."
+ },
+ {
+  "q": "XX asr boshlarida qoraqalpoq adabiyotidagi demokratik an’analarni davom ettirgan yangi avlod vakillari qatoriga qaysi shoir kiradi?",
+  "a": "Qulmurot",
+  "w": [
+   "Kunxo‘ja",
+   "Otash Olshinboy",
+   "Ajiniyoz"
+  ],
+  "e": "Demokratik an’analarni Umar, Sariboy, Qulmurot, Sodiq kabi yangi avlod vakillari davom ettirgan.",
+  "p": 63,
+  "src": "an’analarni yangi avlod\nvakillari Umar, Sariboy, Qulmurot, Sodiq kabi-\nlar davom ettirdilar."
+ },
+ {
+  "q": "Qoraqalpoq xalq og‘zaki ijodida kulgi qahramoni bo‘lgan obraz qaysi?",
+  "a": "O‘mirbek laqqi",
+  "w": [
+   "Arslon",
+   "Olloyor",
+   "Guloyim"
+  ],
+  "e": "Kulgi qahramoni O‘mirbek laqqi obrazi orqali salbiy illatlar hajv qilingan.",
+  "p": 64,
+  "src": "kulgi qahra-\nmoni bo‘lgan O‘mirbek laqqi obrazi"
+ },
+ {
+  "q": "O‘mirbek laqqi obrazi orqali qoraqalpoq xalq og‘zaki ijodida nimalar hajv yo‘li bilan fosh etilgan?",
+  "a": "Razillik, yovuzlik, zolimlik kabi salbiy illatlar",
+  "w": [
+   "Mehnatsevarlik, ezgulik kabi fazilatlar",
+   "Qahramonlik va jasoratga intilish",
+   "Vatanparvarlik va xalqqa sadoqat"
+  ],
+  "e": "Bu obraz orqali salbiy illatlar fosh etilib, mehnatsevarlik, ezgulik va qahramonlik ulug‘langan.",
+  "p": 64,
+  "src": "lik, yomonlik, yovuzlik, zolimlik kabi salbiy illatlar\nhajv yo‘li bilan fosh etilib,"
+ },
+ {
+  "q": "«Qirq qiz» dostonida Sarkub hukmdori Olloyor qiziga qaysi hosildor yerlarni tortiq qilgan?",
+  "a": "Muyeli",
+  "w": [
+   "Mo‘ynoq",
+   "Bog‘ot",
+   "Taxta"
+  ],
+  "e": "Olloyor qizi Guloyimga Muyeli degan hosildor yerlarni tortiq qilgan.",
+  "p": 64,
+  "src": "Sarkub hukmdori Olloyor o‘z qizi\nGuloyimga Muyeli degan hosildor yerlarni tortiq"
+ },
+ {
+  "q": "«Qirq qiz» dostonida Guloyim va uning qirq kanizagi Muyeli yerlarida nima barpo etishgan?",
+  "a": "Mustahkam qal’a",
+  "w": [
+   "Madrasa",
+   "Karvonsaroy",
+   "Yangi shahar"
+  ],
+  "e": "Guloyim va uning qirq kanizagi mustahkam bir qal’a barpo etishgan.",
+  "p": 64,
+  "src": "qirq kanizagi mustahkam bir qal’a barpo etisha-\ndi."
+ },
+ {
+  "q": "«Qirq qiz» dostonida Guloyimga dushmanga qarshi kurashda kim yordam bergan?",
+  "a": "Xorazmlik bahodir Arslon",
+  "w": [
+   "Sarkub hukmdori Olloyor",
+   "Mang‘it hokimi Xo‘janiyoz",
+   "O‘mirbek laqqi"
+  ],
+  "e": "Guloyimga uning oshig‘i xorazmlik bahodir Arslon yordam bergan.",
+  "p": 64,
+  "src": "Bu ishda Guloyimga uning oshig‘i xorazmlik\nbahodir Arslon yordam beradi."
+ },
+ {
+  "q": "«Qirq qiz» dostonining bosh g‘oyasi nima?",
+  "a": "Vatanparvarlik hissi va xalqqa fidoyilarcha muhabbat",
+  "w": [
+   "Boylik va hokimiyat uchun o‘zaro kurash",
+   "Diniy ilmlarni chuqur o‘rganish zarurati",
+   "Ko‘chmanchi hayotning og‘ir mashaqqatlari"
+  ],
+  "e": "Dostonning bosh g‘oyasi vatanparvarlik va ona Vatanga fidoyilarcha muhabbatdir.",
+  "p": 64,
+  "src": "g‘oyasi – yuksak vatanparvarlik hissi va ona Va-\ntanga, xalqqa fidoyilarcha muhabbatdir."
+ },
+ {
+  "q": "Qoraqalpoq folklorida doston qanday asar sifatida ta’riflanadi?",
+  "a": "Qahramonlik haqida she’riy asar",
+  "w": [
+   "Sevgi haqida nasriy asar",
+   "Hajviy kichik hikoya",
+   "Nasihat qo‘shiqlari to‘plami"
+  ],
+  "e": "Doston qahramonlik haqida she’riy asar bo‘lib, unda mard botirlarning jasoratlari madh etilgan.",
+  "p": 64,
+  "src": "Dos-\nton qahramonlik haqida she’riy asar bo‘lib,"
+ }
+]

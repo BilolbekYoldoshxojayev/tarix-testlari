@@ -1,0 +1,290 @@
+[
+ {
+  "q": "Sanoat to‘ntarishi yo‘lidan birinchi bo‘lib qaysi mamlakat bordi?",
+  "a": "Angliya",
+  "w": [
+   "Fransiya",
+   "AQSH",
+   "Germaniya"
+  ],
+  "e": "Sanoat to‘ntarishi yo‘lidan dastlab Angliya, uning ortidan Fransiya va boshqa mamlakatlar bordi.",
+  "p": 7,
+  "src": "Dastlab Angliya, uning ortidan Fransiya"
+ },
+ {
+  "q": "Olimlar industrial sivilizatsiya deb atagan sivilizatsiyaning bosh qadriyatlari qaysilar?",
+  "a": "Texnik taraqqiyot va inson erkinligi",
+  "w": [
+   "Diniy ta’lim va urf-odatlar",
+   "Qishloq xo‘jaligi va hunarmandchilik",
+   "Mustamlaka va qul mehnati"
+  ],
+  "e": "Industrial sivilizatsiyaning bosh qadriyatlari texnik taraqqiyot va inson erkinligi bo‘lgan.",
+  "p": 7,
+  "src": "taraqqiyot va inson erkinligi boʻlgan sivilizatsiya"
+ },
+ {
+  "q": "Industrial sivilizatsiya Yevropa va AQSHda qaysi asrda uzil-kesil qaror topdi?",
+  "a": "XIX asrda",
+  "w": [
+   "XVII asrda",
+   "XVIII asrda",
+   "XX asrda"
+  ],
+  "e": "Industrial sivilizatsiya XIX asrda Yevropa va AQSHda uzil-kesil qaror topgan.",
+  "p": 7,
+  "src": "sivilizatsiya XIX asrda Yevropa va AQSHda"
+ },
+ {
+  "q": "Dengiz va okeanlarda yelkanli kemalar bilan bir qatorda qaysi transport vositasi paydo bo‘ldi?",
+  "a": "Paroxodlar",
+  "w": [
+   "Samolyotlar",
+   "Avtomobillar",
+   "Elektrovozlar"
+  ],
+  "e": "Yelkanli kemalar bilan bir qatorda paroxodlar paydo bo‘lgan.",
+  "p": 7,
+  "src": "yelkanli kemalar bilan bir qatorda paroxodlar paydo"
+ },
+ {
+  "q": "Temiryo‘l tizimi Yevropa va Shimoliy Amerika mamlakatlarida qaysi sohalar rivojiga katta turtki berdi?",
+  "a": "Sanoat va savdo",
+  "w": [
+   "Faqat qishloq xo‘jaligi",
+   "Diniy ta’lim va madaniyat",
+   "Harbiy ish va dengizchilik"
+  ],
+  "e": "Temiryo‘l tizimi sanoat hamda savdoning rivojlanishiga katta turtki bergan.",
+  "p": 7,
+  "src": "hamda savdoning rivojlanishiga katta turtki berdi"
+ },
+ {
+  "q": "Elektrdvigatel, elektrlampa va telefon qaysi yillarda kashf etildi?",
+  "a": "1870-yillari",
+  "w": [
+   "1830-yillari",
+   "1850-yillari",
+   "1900-yillari"
+  ],
+  "e": "1870-yillari elektrdvigatel, elektrlampa, telefon, sal keyinroq radio kashf etilgan.",
+  "p": 7,
+  "src": "1870-yillari elektrdvigatel, elektrlampa, telefon"
+ },
+ {
+  "q": "Elektr energiyasini simlar orqali uzoq masofaga yetkazib berish imkoniyati qachon paydo bo‘ldi?",
+  "a": "1880-yillar – 1890-yillar boshlarida",
+  "w": [
+   "1830-yillar – 1840-yillar boshlarida",
+   "1850-yillar – 1860-yillar boshlarida",
+   "1900-yillar – 1910-yillar boshlarida"
+  ],
+  "e": "Bu imkoniyat 1880-yillar – 1890-yillar boshlarida paydo bo‘lgan.",
+  "p": 7,
+  "src": "1880-yillar – 1890-yillar boshlarida elektr energiyasini simlar orqali"
+ },
+ {
+  "q": "Benzinda ishlaydigan ichki yonuv dvigatellari yaratilgach, dastlab qaysi transport vositalari paydo bo‘ldi?",
+  "a": "Avtomobillar",
+  "w": [
+   "Paroxodlar",
+   "Temiryo‘l lokomotivlari",
+   "Elektrovozlar"
+  ],
+  "e": "Ichki yonuv dvigatellaridan so‘ng dastlabki avtomobillar, keyinroq samolyotlar paydo bo‘lgan.",
+  "p": 7,
+  "src": "dvigatellari yaratilib, shundan soʻng dastlabki avtomobillar"
+ },
+ {
+  "q": "Elektrotexnika va kimyo sanoati iqtisodiyotda qanday sohalar sifatida paydo bo‘ldi?",
+  "a": "Yangi sohalar sifatida",
+  "w": [
+   "Yetakchi qadimiy sohalar sifatida",
+   "Hunarmandchilikning bir turi sifatida",
+   "Qishloq xo‘jaligining bo‘limlari sifatida"
+  ],
+  "e": "Elektrotexnika, kimyo sanoati kabi yangi sohalar paydo bo‘lib, kundalik turmushni o‘zgartira boshlagan.",
+  "p": 7,
+  "src": "Elektrotexnika, kimyo sanoati kabi yangi sohalar"
+ },
+ {
+  "q": "Po‘lat eritishning yangi usullarini joriy etgan fransuz metallurgi kim?",
+  "a": "Pyer Marten",
+  "w": [
+   "Henri Bessemer",
+   "Sidney Tomas",
+   "V. I. Lopushinskiy"
+  ],
+  "e": "Fransuz metallurgi Pyer Marten va ingliz ixtirochisi Henri Bessemer po‘lat eritishning yangi usullarini joriy etgan.",
+  "p": 8,
+  "src": "Fransuz metallurgi Pyer Marten va ingliz"
+ },
+ {
+  "q": "Sidney Tomas kashf etgan suyuq cho‘yanni tozalash usuli nimaga imkon yaratdi?",
+  "a": "Fosfatlarga boy temir rudalaridan foydalanishga",
+  "w": [
+   "Temirdan ko‘mir olishga",
+   "Neftni qayta ishlashga",
+   "Po‘latni arzon sotib olishga"
+  ],
+  "e": "Bu usul fosfatlarga boy temir rudalaridan foydalanish imkonini yaratib, mahsulot sifatini oshirgan.",
+  "p": 8,
+  "src": "fosfatlarga boy temir rudalaridan foydalanish imkonini yaratdi"
+ },
+ {
+  "q": "1870-yildan 1900-yilgacha jahonda po‘lat ishlab chiqarish necha barobar o‘sdi?",
+  "a": "56 barobar",
+  "w": [
+   "5 barobar",
+   "16 barobar",
+   "100 barobar"
+  ],
+  "e": "Shu davrda jahonda po‘lat ishlab chiqarish 56 barobar o‘sgan.",
+  "p": 8,
+  "src": "jahonda poʻlat ishlab chiqarish 56 barobar"
+ },
+ {
+  "q": "Sanoatda temir davri o‘rniga qaysi davr boshlandi?",
+  "a": "Po‘lat davri",
+  "w": [
+   "Bronza davri",
+   "Mis davri",
+   "Alyuminiy davri"
+  ],
+  "e": "Po‘lat ishlab chiqarish keskin oshgach, sanoatda temir davri o‘rniga po‘lat davri boshlangan.",
+  "p": 8,
+  "src": "Sanoatda temir davri oʻrniga poʻlat"
+ },
+ {
+  "q": "Yirik ishlab chiqarish uchun zarur katta mablag‘larni bir joyga to‘plash maqsadida nima tashkil qilindi?",
+  "a": "Aksionerlik kompaniyalari",
+  "w": [
+   "Kasaba uyushmalari",
+   "Feodal jamoalar",
+   "Hunarmandlar sexlari"
+  ],
+  "e": "Katta mablag‘ to‘plash uchun aksionerlik kompaniyalari tashkil qilingan.",
+  "p": 8,
+  "src": "uchun aksionerlik kompaniyalari tashkil"
+ },
+ {
+  "q": "Yirik banklar va sanoatchilar mablag‘ini jamlashdan paydo bo‘lib, tor elita qatlamiga aylangan guruh qanday ataladi?",
+  "a": "Moliya oligarxiyasi",
+  "w": [
+   "Feodal zodagonlari",
+   "Hunarmandlar sinfi",
+   "Dehqonlar jamoasi"
+  ],
+  "e": "Paydo bo‘lgan moliya oligarxiyasi tezda jamiyatning tor elita qatlamiga aylangan.",
+  "p": 8,
+  "src": "paydo boʻlgan moliya oligarxiyasi tezda"
+ },
+ {
+  "q": "Yangi davrda absolyut monarxiyalar o‘rnini nima egalladi?",
+  "a": "Konstitutsion monarxiyalar va respublikalar",
+  "w": [
+   "Teokratik davlatlar va diniy knyazliklar",
+   "Feodal tarqoq knyazliklar va xonliklar",
+   "Yangi absolyut imperiyalar va sultonliklar"
+  ],
+  "e": "Absolyut monarxiyalar o‘tmishda qolib, o‘rnini cheklangan (konstitutsion) monarxiyalar va respublikalar egallagan.",
+  "p": 9,
+  "src": "oʻrnini cheklangan (konstitutsion) monarxiyalar va respublikalarga"
+ },
+ {
+  "q": "Parlament faoliyati qanday davlat shakllanishiga ko‘maklashdi?",
+  "a": "Hokimiyatlari bir-biridan ajratilgan huquqiy davlatga",
+  "w": [
+   "Barcha hokimiyat bir monarx qo‘lida to‘plangan davlatga",
+   "Diniy rahbarlar boshqaradigan teokratik davlatga",
+   "Hokimiyat bitta partiyaga tegishli bo‘lgan davlatga"
+  ],
+  "e": "Parlament faoliyati hokimiyatlar bo‘lingan huquqiy davlat shakllanishiga yordam bergan.",
+  "p": 9,
+  "src": "hokimiyatlari bir-biridan ajratilgan huquqiy"
+ },
+ {
+  "q": "Huquqiy davlatlarda shaxs huquqi kafolatlanib, qanday prinsip o‘rnatildi?",
+  "a": "Fuqarolarning qonun oldida tengligi",
+  "w": [
+   "Sinflar o‘rtasidagi tabaqalanish",
+   "Zodagonlarning imtiyozli huquqi",
+   "Diniy rahbarlarning sud immuniteti"
+  ],
+  "e": "Huquqiy davlatlarda fuqarolarning qonun oldida tengligi prinsipi o‘rnatilgan.",
+  "p": 9,
+  "src": "fuqarolarning qonun oldida tengligi prinsipi"
+ },
+ {
+  "q": "Ilm-fanni ishlab chiqaruvchi kuchga aylantirishning uzoq davom etgan jarayoni XX asrda nimaga olib keldi?",
+  "a": "Ilmiy-texnik inqilobga",
+  "w": [
+   "Sanoat to‘ntarishiga",
+   "Feodal tuzumga qaytishga",
+   "Dunyoviy ta’limning bekor qilinishiga"
+  ],
+  "e": "Bu jarayon XX asrda ilmiy-texnik inqilobga olib kelgan.",
+  "p": 9,
+  "src": "uzoq davom etgan jarayoni XX asrda ilmiy-texnik inqilobga olib keldi"
+ },
+ {
+  "q": "Yangi davr kishisining shakllanishida XVIII asrda paydo bo‘lgan qaysi ta’limot kengroq namoyon bo‘la boshladi?",
+  "a": "Insonning tabiiy va uzviy huquqlari to‘g‘risidagi ta’limot",
+  "w": [
+   "Davlatning diniy asoslari to‘g‘risidagi ta’limot",
+   "Tabaqalar tengsizligi to‘g‘risidagi ta’limot",
+   "Monarx hokimiyatining ilohiyligi to‘g‘risidagi ta’limot"
+  ],
+  "e": "XVIII asrda paydo bo‘lgan insonning tabiiy va uzviy huquqlari haqidagi ta’limot jamiyat hayotida kengroq namoyon bo‘la boshlagan.",
+  "p": 9,
+  "src": "insonning tabiiy va uzviy huquqlari"
+ },
+ {
+  "q": "Ko‘plab mamlakatlarda dunyoviy ta’lim yo‘lga qo‘yilishi natijasida nima ajratildi?",
+  "a": "Diniy muassasalar davlatdan, ta’lim jarayoni dindan",
+  "w": [
+   "Davlat ta’limdan, fan madaniyatdan",
+   "Armiya davlatdan, sud hokimiyati dindan",
+   "Sanoat qishloq xo‘jaligidan, matbuot davlatdan"
+  ],
+  "e": "Diniy muassasalar davlatdan, ta’lim jarayoni esa dindan ajratilgan.",
+  "p": 10,
+  "src": "salar davlatdan, taʼlim jarayoni dindan ajratildi"
+ },
+ {
+  "q": "Industrial davlatlar mustamlaka imperiyalarini yaratib, qaysi hududlarni ta’sir doiralariga bo‘lib olishga intildi?",
+  "a": "Osiyo, Afrika va Lotin Amerikasini",
+  "w": [
+   "Yevropa, Shimoliy Amerika va Avstraliyani",
+   "Yevropa, Osiyo va Shimoliy Amerikani",
+   "Avstraliya, Antarktida va Yevropani"
+  ],
+  "e": "Industrial davlatlar Osiyo, Afrika va Lotin Amerikasini ta’sir hududlariga bo‘lib olishga intilgan.",
+  "p": 10,
+  "src": "ekspansiyasi davri, Osiyo, Afrika va Lotin"
+ },
+ {
+  "q": "Sekulyarlik nima?",
+  "a": "Hukumat va huquq manbalari dindan alohida bo‘lishi kerakligi haqidagi tushuncha",
+  "w": [
+   "Davlatning rasmiy dinini hamma uchun majburiy qilish haqidagi tushuncha",
+   "Barcha dinlarni bitta umumiy dinga birlashtirish haqidagi tushuncha",
+   "Din rahbarlarining davlat ishlarini boshqarishi kerakligi haqidagi tushuncha"
+  ],
+  "e": "Sekulyarlik – hokimiyat va huquq manbalarining dindan ajratilishi haqidagi tushuncha.",
+  "p": 10,
+  "src": "hukumat va boshqa huquq manbalari dinning har qanday turidan"
+ },
+ {
+  "q": "Qaysi tushuncha industrial sivilizatsiyaning asosiy belgilaridan biri hisoblanadi?",
+  "a": "Bozor munosabatlari",
+  "w": [
+   "Absolyut monarxiya",
+   "Feodal qaramlik",
+   "Qulchilik"
+  ],
+  "e": "Bozor munosabatlari, siyosiy va ijtimoiy tenglik, huquqiy davlat kabilar industrial sivilizatsiya belgilaridir.",
+  "p": 10,
+  "src": "bozor munosabatlari, siyosiy va ijtimoiy tenglik,"
+ }
+]

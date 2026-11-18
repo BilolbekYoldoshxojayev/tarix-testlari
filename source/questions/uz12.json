@@ -1,0 +1,314 @@
+[
+ {
+  "q": "Qaysi shaxs «O‘rta Osiyo jadidlarining otasi» deb tan olingan?",
+  "a": "Mahmudxo‘ja Behbudiy",
+  "w": [
+   "Abdulla Avloniy",
+   "Munavvarqori Abdurashidxonov",
+   "Hamza Hakimzoda Niyoziy"
+  ],
+  "e": "Turkiston jadidlarini birlashtirishda Mahmudxo‘ja Behbudiyning xizmati katta bo‘lgan va u «O‘rta Osiyo jadidlarining otasi» deb tan olingan.",
+  "p": 74,
+  "src": "«O‘rta Osiyo jadidlarining otasi»"
+ },
+ {
+  "q": "Mahmudxo‘ja Behbudiy qaysi yillarda yashagan?",
+  "a": "1875–1919",
+  "w": [
+   "1878–1931",
+   "1878–1934",
+   "1875–1931"
+  ],
+  "e": "Mahmudxo‘ja Behbudiyning hayot yillari 1875–1919 deb ko‘rsatilgan.",
+  "p": 74,
+  "src": "(1875–1919) ning xizmati katta bo‘ldi."
+ },
+ {
+  "q": "Mahmudxo‘ja Behbudiy tashabbusi bilan kimning sharafiga «Behbudiya kutubxonasi» tashkil qilingan?",
+  "a": "Behbudiyning otasi sharafiga",
+  "w": [
+   "Behbudiyning ustozi sharafiga",
+   "Munavvarqori sharafiga",
+   "Abdulla Avloniy sharafiga"
+  ],
+  "e": "Kutubxona Behbudiy tashabbusi bilan uning otasi sharafiga tashkil qilingan.",
+  "p": 74,
+  "src": "tashabbusi bilan uning otasi"
+ },
+ {
+  "q": "Mahmudxo‘ja Behbudiy O‘rta Osiyo jadidchilik harakatida qanday o‘rin tutgan?",
+  "a": "Harakatning asoschisi va yo‘lboshchisi bo‘lgan",
+  "w": [
+   "Faqat jadid teatrining targ‘ibotchisi bo‘lgan",
+   "Buxoro amirligining bosh vaziri bo‘lgan",
+   "Xiva xonligidagi jadid maktabi muallimi bo‘lgan"
+  ],
+  "e": "Behbudiy O‘rta Osiyo jadidchilik harakatining asoschisi va yo‘lboshchisi bo‘lgan.",
+  "p": 74,
+  "src": "asoschisi va yo‘lboshchisi bo‘lgan"
+ },
+ {
+  "q": "Munavvarqori Abdurashidxonov maktablar uchun yaratgan darsliklar qaysi javobda to‘g‘ri berilgan?",
+  "a": "«Adibi avval», «Adibi soniy», «Yer yuzi»",
+  "w": [
+   "«Birinchi muallim», «Ikkinchi muallim», «Yer yuzi»",
+   "«Turkiy guliston yoxud axloq», «Adibi soniy», «Yer yuzi»",
+   "«Birinchi muallim», «Adibi avval», «Turkiy guliston yoxud axloq»"
+  ],
+  "e": "Munavvarqori «Adibi avval», «Adibi soniy», «Yer yuzi» kabi darsliklarni yaratgan.",
+  "p": 74,
+  "src": "«Adibi avval», «Adibi soniy»"
+ },
+ {
+  "q": "Abdulla Avloniy yaratgan darsliklardan biri qaysi?",
+  "a": "«Birinchi muallim»",
+  "w": [
+   "«Adibi avval»",
+   "«Adibi soniy»",
+   "«Yer yuzi»"
+  ],
+  "e": "Avloniy «Birinchi muallim», «Ikkinchi muallim», «Turkiy guliston yoxud axloq» darsliklarini yaratgan.",
+  "p": 74,
+  "src": "«Birin-\nchi muallim», «Ikkinchi muallim»"
+ },
+ {
+  "q": "Abdulla Avloniy 1907-yilda qaysi gazetaga asos solgan?",
+  "a": "«Shuhrat» gazetasiga",
+  "w": [
+   "«Sadoi Turkiston» gazetasiga",
+   "«Izhor ul-Haq» jurnaliga",
+   "«Turon» gazetasiga"
+  ],
+  "e": "Avloniy 1907-yil «Shuhrat» gazetasiga asos solgan.",
+  "p": 74,
+  "src": "1907-yil «Shuhrat» gazetasiga asos soldi"
+ },
+ {
+  "q": "Abdulla Avloniy qaysi sohalarning rivojiga katta hissa qo‘shgan?",
+  "a": "Ta’lim, matbuot va teatr",
+  "w": [
+   "Ta’lim, harbiy ish va savdo",
+   "Matbuot, sanoat va qishloq xo‘jaligi",
+   "Teatr, me’morchilik va tibbiyot"
+  ],
+  "e": "Avloniy o‘lkada ta’lim, matbuot, teatr sohalarining rivojlanishiga katta hissa qo‘shgan.",
+  "p": 74,
+  "src": "ta’lim, matbuot, teatr sohalarining"
+ },
+ {
+  "q": "1908-yilda Buxoroda tashkil etilgan «Tarbiyai atfol» jamiyatining nomi qanday ma’noni anglatadi?",
+  "a": "Bolalar tarbiyasi",
+  "w": [
+   "Yoshlar ittifoqi",
+   "Ma’rifat nuri",
+   "Millat ozodligi"
+  ],
+  "e": "«Tarbiyai atfol» o‘zbekchada «Bolalar tarbiyasi» degan ma’noni bildiradi.",
+  "p": 75,
+  "src": "(«Bolalar tarbiyasi») jamiyatini tashkil"
+ },
+ {
+  "q": "«Tarbiyai atfol» jamiyati 1912-yilda nechta talabani Turkiyaga o‘qishga yuborgan?",
+  "a": "30 nafar",
+  "w": [
+   "15 nafar",
+   "50 nafar",
+   "100 nafar"
+  ],
+  "e": "Jamiyat 1911-yilda 15 nafar, 1912-yilda esa 30 nafar talabani Turkiyaga yuborgan.",
+  "p": 75,
+  "src": "1911-yilda 15 nafar, 1912-yilda esa 30"
+ },
+ {
+  "q": "Yoshlarni chet ellarda o‘qitish uchun o‘z hisobidan katta mablag‘ ajratgan andijonlik taraqqiyparvar sarmoyador kim?",
+  "a": "Mirkomil Mirmo‘minboyev",
+  "w": [
+   "Abduvohid Burhonov",
+   "Mukammil Burhonov",
+   "Ahmadjon Abdusaidov"
+  ],
+  "e": "Andijonlik Mirkomil Mirmo‘minboyev yoshlarni chet elga yuborish ishiga o‘z hisobidan katta mablag‘ ajratgan.",
+  "p": 75,
+  "src": "Andijonlik Mirkomil Mirmo‘minboyev"
+ },
+ {
+  "q": "«Fuqaho jamiyati» Toshkent shahrida qachon tashkil topdi?",
+  "a": "1917-yil 10-avgustda",
+  "w": [
+   "1908-yil 10-avgustda",
+   "1917-yil 10-fevralda",
+   "1918-yil 10-avgustda"
+  ],
+  "e": "«Fuqaho jamiyati» 1917-yil 10-avgustda Toshkentda tashkil topgan.",
+  "p": 76,
+  "src": "1917-yili 10-avgustda Toshkent shahrida"
+ },
+ {
+  "q": "«Fuqaho jamiyati» nechta qozidan iborat bo‘lgan?",
+  "a": "To‘rt qozi",
+  "w": [
+   "Ikki qozi",
+   "Uch qozi",
+   "Besh qozi"
+  ],
+  "e": "Jamiyat to‘rt qozi va ular yonidagi muhrdor, a’lam va muftiylardan iborat bo‘lgan.",
+  "p": 76,
+  "src": "to‘rt qozi va ular yonidagi muhrdor"
+ },
+ {
+  "q": "«Fuqaho jamiyati»ning nashri qaysi jurnal bo‘lgan?",
+  "a": "«Izhor ul-Haq»",
+  "w": [
+   "«Sadoi Turkiston»",
+   "«Mehnatkashlar tovushi»",
+   "«Shuhrat»"
+  ],
+  "e": "«Fuqaho jamiyati»ning nashri «Izhor ul-Haq» jurnali bo‘lgan.",
+  "p": 76,
+  "src": "nashri bo‘lgan «Izhor ul-Haq» jurnalidagi"
+ },
+ {
+  "q": "Mustamlaka davrida qaysi mazhabni sofligicha keyingi avlodga yetkazish dolzarb muammolardan biriga aylangan?",
+  "a": "Hanafiylik mazhabini",
+  "w": [
+   "Shofe’iylik mazhabini",
+   "Molikiylik mazhabini",
+   "Hanbaliylik mazhabini"
+  ],
+  "e": "Mustamlaka davrida hanafiylik mazhabini sofligicha keyingi avlodga yetkazish masalasi dolzarb edi.",
+  "p": 76,
+  "src": "hanafiylik mazhabini"
+ },
+ {
+  "q": "«Izhor ul-Haq» jurnalidagi maqolaga ko‘ra, maktabda yurgan bolalarning qanchasi ahli savod bo‘lib chiqardi?",
+  "a": "Sakkiz-o‘n besh nafardan ikki yoki uch nafari",
+  "w": [
+   "Sakkiz-o‘n besh nafardan yarmi",
+   "Sakkiz-o‘n besh nafardan to‘rt-besh nafari",
+   "Sakkiz-o‘n besh nafardan deyarli hammasi"
+  ],
+  "e": "Maqolada maktabdagi bolalardan ikki yo uch nafari ahli savod bo‘lib chiqishi aytilgan.",
+  "p": 76,
+  "src": "yo sakkiz nafardan ikki yo uch nafari ahli savod"
+ },
+ {
+  "q": "Toshkentlik Ubaydullaxo‘ja Asadullaxo‘jayev qanday kasb egasi bo‘lgan?",
+  "a": "Birinchi oliy ma’lumotli o‘zbek advokati",
+  "w": [
+   "Birinchi oliy ma’lumotli o‘zbek shifokori",
+   "Birinchi oliy ma’lumotli o‘zbek me’mori",
+   "Birinchi oliy ma’lumotli o‘zbek yozuvchisi"
+  ],
+  "e": "U Rossiyada huquqshunoslik bo‘yicha ta’lim olib, birinchi oliy ma’lumotli o‘zbek advokati bo‘lgan.",
+  "p": 77,
+  "src": "birinchi oliy ma’lumotli o‘zbek advokati"
+ },
+ {
+  "q": "Taraqqiyparvarlar zavod va fabrikalar qurib, nimani zarur deb bilishgan?",
+  "a": "Mahsulotlarni o‘lkaning o‘zida ishlab chiqarishni",
+  "w": [
+   "Barcha mahsulotlarni chetdan keltirishni",
+   "Mahsulotlarni faqat Rossiyaga sotishni",
+   "Qishloq xo‘jaligini butunlay to‘xtatishni"
+  ],
+  "e": "Ular mahsulotlarni o‘lkaning o‘zida ishlab chiqarishni zarur deb bilishgan.",
+  "p": 77,
+  "src": "mahsulotlarni o‘lkaning"
+ },
+ {
+  "q": "Jadidlar yoshlarni o‘qishga yuborish uchun rivojlangan xorijiy davlatlardan, jumladan, qaysi birini nazarda tutgan?",
+  "a": "Germaniyani",
+  "w": [
+   "Fransiyani",
+   "Yaponiyani",
+   "Angliyani"
+  ],
+  "e": "Jadidlar ko‘plab yoshlarni, jumladan, Germaniyaga o‘qishga yuborish g‘oyasini ilgari surgan.",
+  "p": 77,
+  "src": "Germaniyaga o‘qishga yuborish, u yerda ular tahsil olib kelib"
+ },
+ {
+  "q": "Turkiston jadidchiligi qaysi yilga kelib siyosiy harakatga aylandi?",
+  "a": "1917-yilga",
+  "w": [
+   "1905-yilga",
+   "1908-yilga",
+   "1919-yilga"
+  ],
+  "e": "1917-yilga kelib Turkiston jadidchiligi siyosiy harakatga aylangan.",
+  "p": 78,
+  "src": "1917-yilga kelib Turkiston jadidchiligi"
+ },
+ {
+  "q": "Turkiston taraqqiyparvarlari keskin vaziyatda muammolarni qanday hal etishga intilgan?",
+  "a": "Tinch yo‘l bilan",
+  "w": [
+   "Qurolli qo‘zg‘olon orqali",
+   "Xorijiy qo‘shinlar yordamida",
+   "Hukumatga bo‘ysunmaslik orqali"
+  ],
+  "e": "Ular mahalliy xalqning tinchliksevarligidan kelib chiqib, barcha muammolarni tinch yo‘l bilan hal etishga intilgan.",
+  "p": 78,
+  "src": "kelib chiqib, barcha muammolarni tinch yo‘l"
+ },
+ {
+  "q": "Fevral voqealaridan keyin tuzilgan milliy-siyosiy tashkilotlardan biri qaysi?",
+  "a": "«Sho‘royi islomiya»",
+  "w": [
+   "«Tarbiyai atfol»",
+   "«Turon»",
+   "«Shuhrat»"
+  ],
+  "e": "Fevraldan keyin «Sho‘royi islomiya», «Ittifoq» kabi milliy-siyosiy tashkilotlar tuzildi.",
+  "p": 79,
+  "src": "«Sho‘royi islomiya», «Ittifoq» kabi"
+ },
+ {
+  "q": "Jadidchilik harakati o‘lkada imperiya hukumatining mustamlakachilik siyosatiga qarshi qanday kuch sifatida namoyon bo‘ldi?",
+  "a": "Asosiy ma’naviy kuch sifatida",
+  "w": [
+   "Asosiy harbiy kuch sifatida",
+   "Asosiy iqtisodiy kuch sifatida",
+   "Asosiy diniy-mazhabiy kuch sifatida"
+  ],
+  "e": "Jadidchilik harakati mustamlakachilik siyosatiga qarshi turuvchi asosiy ma’naviy kuch sifatida namoyon bo‘lgan.",
+  "p": 79,
+  "src": "asosiy ma’naviy kuch sifatida namoyon"
+ },
+ {
+  "q": "«Jadid» so‘zi qaysi tilda va qanday ma’noni bildiradi?",
+  "a": "Arabcha – «yangi»",
+  "w": [
+   "Lotincha – «ittifoq»",
+   "Lotincha – «yuborgan»",
+   "Arabcha – «ozod»"
+  ],
+  "e": "«Jadid» arabcha «yangi» degan ma’noni bildiradi.",
+  "p": 79,
+  "src": "arabcha – «yangi» degan ma’noni bildiradi"
+ },
+ {
+  "q": "«Federatsiya» atamasi lotincha qanday ma’noni bildiradi?",
+  "a": "Ittifoq bo‘lib mustahkamlash",
+  "w": [
+   "Vakolatli qilib yuborilgan vakil",
+   "Jamoadan saylab yuborilgan shaxs",
+   "Davlatlarning o‘zaro bo‘linib ketishi"
+  ],
+  "e": "Federatsiya lotincha «ittifoq bo‘lib mustahkamlash» degan ma’noni bildiradi.",
+  "p": 79,
+  "src": "lotincha – ittifoq bo‘lib mustahkamlash"
+ },
+ {
+  "q": "Jadidlar maktablarda yoshlarni tarbiyalab, ular orqali Turkistonda nimani ilgari surgan?",
+  "a": "Milliy davlatchilik g‘oyalarini",
+  "w": [
+   "Mustamlaka tuzumini mustahkamlash g‘oyalarini",
+   "Xonliklarni qayta tiklash g‘oyalarini",
+   "Xorijga ko‘chish g‘oyalarini"
+  ],
+  "e": "Jadidlar mustaqil davlat barpo etish uchun milliy davlatchilik g‘oyalarini ilgari surgan.",
+  "p": 71,
+  "src": "milliy davlatchilik g‘oyalarini ilgari"
+ }
+]

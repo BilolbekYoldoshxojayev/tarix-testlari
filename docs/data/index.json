@@ -1,0 +1,262 @@
+{
+ "books": {
+  "uz": {
+   "title": "O‘zbekiston tarixi"
+  },
+  "jh": {
+   "title": "Jahon tarixi"
+  }
+ },
+ "topics": [
+  {
+   "id": "uz01",
+   "book": "uz",
+   "title": "Rossiya imperiyasi bosqini arafasida Buxoro amirligi, Qo‘qon va Xiva xonliklaridagi ijtimoiy-siyosiy va iqtisodiy ahvol",
+   "pages": [
+    6,
+    18
+   ],
+   "count": 50
+  },
+  {
+   "id": "uz02",
+   "book": "uz",
+   "title": "Rossiya imperiyasining O‘rta Osiyoga yurishi va Turkiston general-gubernatorligining tashkil topishi",
+   "pages": [
+    19,
+    25
+   ],
+   "count": 30
+  },
+  {
+   "id": "uz03",
+   "book": "uz",
+   "title": "Buxoro amirligi va Xiva xonligining Rossiya imperiyasi vassaliga aylanishi",
+   "pages": [
+    26,
+    32
+   ],
+   "count": 46
+  },
+  {
+   "id": "uz04",
+   "book": "uz",
+   "title": "Turkiston o‘lkasida siyosiy-ma’muriy boshqaruv tizimi",
+   "pages": [
+    33,
+    38
+   ],
+   "count": 37
+  },
+  {
+   "id": "uz05",
+   "book": "uz",
+   "title": "Turkistonda Rossiya imperiyasiga qarshi milliy-ozodlik harakatlari",
+   "pages": [
+    39,
+    45
+   ],
+   "count": 36
+  },
+  {
+   "id": "uz06",
+   "book": "uz",
+   "title": "Birinchi jahon urushining boshlanishi va uning Turkistonga ta’siri",
+   "pages": [
+    46,
+    48
+   ],
+   "count": 12
+  },
+  {
+   "id": "uz07",
+   "book": "uz",
+   "title": "Turkistonda 1916-yilgi qo‘zg‘olonning boshlanishi",
+   "pages": [
+    49,
+    52
+   ],
+   "count": 13
+  },
+  {
+   "id": "uz08",
+   "book": "uz",
+   "title": "XIX asrning ikkinchi yarmi – XX asrning boshlarida Buxoro amirligi",
+   "pages": [
+    53,
+    57
+   ],
+   "count": 27
+  },
+  {
+   "id": "uz09",
+   "book": "uz",
+   "title": "XIX asrning ikkinchi yarmi – XX asrning boshlarida Xiva xonligi",
+   "pages": [
+    58,
+    61
+   ],
+   "count": 17
+  },
+  {
+   "id": "uz10",
+   "book": "uz",
+   "title": "XIX asr ikkinchi yarmi – XX asr boshlarida qoraqalpoqlar madaniyati",
+   "pages": [
+    62,
+    65
+   ],
+   "count": 26
+  },
+  {
+   "id": "uz11",
+   "book": "uz",
+   "title": "Turkistonda jadidchilik harakati",
+   "pages": [
+    66,
+    70
+   ],
+   "count": 20
+  },
+  {
+   "id": "uz12",
+   "book": "uz",
+   "title": "Jadidchilik harakati namoyandalari va ularning faoliyati",
+   "pages": [
+    71,
+    79
+   ],
+   "count": 26
+  },
+  {
+   "id": "jh01",
+   "book": "jh",
+   "title": "Industrial sivilizatsiyaning qaror topishi",
+   "pages": [
+    6,
+    10
+   ],
+   "count": 24
+  },
+  {
+   "id": "jh02",
+   "book": "jh",
+   "title": "“Yanada Buyuk Britaniya” uchun: yangi iqtisodiy va mafkuraviy tizimning paydo bo‘lishi",
+   "pages": [
+    11,
+    15
+   ],
+   "count": 28
+  },
+  {
+   "id": "jh03",
+   "book": "jh",
+   "title": "Fransiya va Germaniya: Yevropada yetakchilik uchun kurash",
+   "pages": [
+    16,
+    21
+   ],
+   "count": 29
+  },
+  {
+   "id": "jh04",
+   "book": "jh",
+   "title": "Sharqiy Yevropa va Rossiya: jamiyatni isloh qilish muammolari",
+   "pages": [
+    22,
+    26
+   ],
+   "count": 23
+  },
+  {
+   "id": "jh05",
+   "book": "jh",
+   "title": "Ikki xil Amerika: Shimoliy va Janubiy Amerikada taraqqiyot yo‘nalishlari",
+   "pages": [
+    27,
+    31
+   ],
+   "count": 29
+  },
+  {
+   "id": "jh06",
+   "book": "jh",
+   "title": "Yaponiya, Xitoy va Hindiston: islohotlarning osiyocha yo‘li",
+   "pages": [
+    32,
+    37
+   ],
+   "count": 31
+  },
+  {
+   "id": "jh07",
+   "book": "jh",
+   "title": "Islom sivilizatsiyasi mamlakatlarida an’anaviylik va islohotchilik o‘rtasidagi kurash",
+   "pages": [
+    38,
+    42
+   ],
+   "count": 29
+  },
+  {
+   "id": "jh08",
+   "book": "jh",
+   "title": "Afrika mamlakatlarida mustamlakachilik va taraqqiyot muammolari",
+   "pages": [
+    43,
+    49
+   ],
+   "count": 23
+  },
+  {
+   "id": "jh09",
+   "book": "jh",
+   "title": "Birinchi jahon urushining kelib chiqish sabablari va oqibatlari",
+   "pages": [
+    50,
+    55
+   ],
+   "count": 21
+  },
+  {
+   "id": "jh10",
+   "book": "jh",
+   "title": "Liberal-demokratik mamlakatlarda taraqqiyotning yangi muammolari",
+   "pages": [
+    56,
+    60
+   ],
+   "count": 28
+  },
+  {
+   "id": "jh11",
+   "book": "jh",
+   "title": "Totalitar va avtoritar diktatura mamlakatlari: yangi urush o‘chog‘ining paydo bo‘lishi",
+   "pages": [
+    61,
+    66
+   ],
+   "count": 40
+  },
+  {
+   "id": "jh12",
+   "book": "jh",
+   "title": "Osiyo mamlakatlarida mustaqillik va taraqqiyot muammolari",
+   "pages": [
+    67,
+    72
+   ],
+   "count": 31
+  },
+  {
+   "id": "jh13",
+   "book": "jh",
+   "title": "Afrikada milliy uyg‘onish va mustaqillik g‘oyalarining paydo bo‘lishi",
+   "pages": [
+    73,
+    76
+   ],
+   "count": 26
+  }
+ ]
+}
