@@ -2,7 +2,7 @@
 
 Static quiz site for the 10th-grade textbooks **O‘zbekiston tarixi** (12 topics, pp. 6–79) and **Jahon tarixi** (topics 1–13, pp. 6–76). Every question is grounded in a verbatim textbook passage (checked by `tools/build.py`).
 
-Features: per-topic tests, practice mode (instant feedback + explanation + page), timed exam mode, per-book mixed test, "Xatolarim" (repeat mistakes), best score per topic. Progress is stored in the browser (localStorage); no server, no accounts.
+Features: per-topic tests, practice mode (instant feedback + explanation + page), timed exam mode with question navigator, per-book mixed test, "Xatolarim" (repeat mistakes), "Natijalarim" (score history, best score per topic, progress per book, export/import to a file), resume an unfinished test, keyboard shortcuts, result sharing, installable and works offline after the first visit. Progress is stored in the browser (localStorage); no server, no accounts.
 
 ## Layout
 | Path | What |
